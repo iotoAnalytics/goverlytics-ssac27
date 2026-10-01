@@ -58,6 +58,18 @@ The notebook requires the raw input described in [Raw Hansard Dataset](#raw-hans
 
 Users who only have this repository can run [`notebooks/artifact_results.ipynb`](notebooks/artifact_results.ipynb) to load and inspect the committed derived outputs without the raw extract.
 
+## Figures
+
+The published figures are included below for quick reference:
+
+![Monthly attention by top topics](figures/fig_monthly_attention_top_3.png)
+
+![Monthly concept attention](figures/fig_monthly_concept_attention.png)
+
+![Monthly tariff-related attention](figures/fig_tariff_related_monthly.png)
+
+![Tariff-topic speakers](figures/fig_tariff_topic_speakers_anonymized.png)
+
 ## Raw Hansard Dataset
 
 The anonymized raw Hansard extract is available as a separate [CSV download](https://webapp-resource.s3.us-west-2.amazonaws.com/ssac27/canada_hansard_2022_2026_anonymized.csv). It is over 300 MB and is not included in the repository because of its size and source-use conditions.
