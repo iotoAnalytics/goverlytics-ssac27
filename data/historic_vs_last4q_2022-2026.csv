@@ -1,0 +1,1325 @@
+topic,current_%,historical_norm_%,shift_pp
+Climate change,0.35,1.23,-0.89
+Economic development,1.4,0.59,0.81
+Justice system,1.72,0.92,0.8
+Housing,1.67,2.41,-0.74
+Elections,1.9,2.58,-0.68
+Budgets,1.14,0.5,0.64
+Economic issues,1.6,0.97,0.63
+Tariffs,0.77,0.15,0.62
+Provincial governments,0.6,0.0,0.6
+Legal issues,1.33,0.74,0.6
+Provincial institutions,0.63,1.22,-0.58
+Child care,0.33,0.85,-0.51
+Economy,0.61,0.18,0.44
+Public service,1.52,1.95,-0.43
+Debt,0.77,0.34,0.43
+Food security,0.67,0.28,0.39
+Investments,0.83,0.44,0.39
+Corruption,0.12,0.51,-0.39
+Oral health,0.07,0.46,-0.39
+Businesses,0.38,0.0,0.38
+Indigenous affairs,0.53,0.9,-0.38
+Public administration,3.11,3.47,-0.36
+Indigenous peoples,0.24,0.59,-0.35
+Fiscal issues,1.13,0.81,0.32
+Health care,0.57,0.88,-0.31
+Planning,0.31,0.0,0.31
+Public finance,1.37,1.06,0.31
+International trade,0.43,0.12,0.31
+Infrastructures,0.68,0.37,0.31
+Criminal justice,0.52,0.22,0.3
+Unemployment,0.36,0.07,0.29
+Automobile industry,0.36,0.07,0.28
+Emergency preparedness,0.22,0.5,-0.28
+Trade negotiations,0.39,0.12,0.27
+Crime,0.91,0.65,0.26
+Persons with disabilities,0.19,0.44,-0.25
+Housing assistance,0.43,0.68,-0.25
+Pipelines,0.38,0.13,0.25
+Criminal law,0.43,0.18,0.24
+Inflation,0.87,1.11,-0.24
+External relations,0.41,0.65,-0.24
+Fuels,0.33,0.57,-0.24
+Cooperation,0.23,0.0,0.23
+Foreign interference,0.12,0.34,-0.22
+Benefits,0.74,0.52,0.22
+Local governments,0.22,0.0,0.22
+Homelessness,0.12,0.34,-0.22
+Dental insurance,0.12,0.33,-0.21
+Francophonie,0.21,0.0,0.21
+Immigration,0.7,0.49,0.21
+Crisis,0.7,0.9,-0.2
+Red tape burdens,0.2,0.0,0.2
+National debt,0.43,0.22,0.2
+Seniors,0.55,0.75,-0.2
+Employment,0.34,0.15,0.19
+Monarchy,0.02,0.21,-0.19
+Mental health,0.11,0.31,-0.19
+Natural disasters,0.06,0.24,-0.19
+Sexual offences,0.38,0.19,0.19
+Coronavirus diseases,0.02,0.21,-0.19
+Job creation,0.34,0.16,0.18
+Humanitarian aid,0.13,0.3,-0.17
+Exports,0.21,0.04,0.17
+Donations,0.13,0.29,-0.17
+Workers,0.52,0.36,0.16
+Construction industry,0.26,0.1,0.16
+Armed forces,0.46,0.3,0.16
+Vaccines,0.01,0.17,-0.16
+Lumber industry,0.23,0.07,0.16
+Charitable donations,0.15,0.0,0.15
+Community partnerships,0.15,0.0,0.15
+Firearms,0.26,0.42,-0.15
+International cooperation,0.15,0.0,0.15
+Police services,0.86,0.71,0.15
+Interest rates,0.08,0.23,-0.15
+Agri-food industry,0.46,0.31,0.15
+Petroleum industry,0.32,0.47,-0.15
+Pollution,0.01,0.16,-0.15
+Citizenship,0.37,0.23,0.15
+Employment opportunities,0.42,0.27,0.15
+Negotiations,0.6,0.45,0.15
+Forestry industry,0.21,0.07,0.14
+Interpersonal relations,0.15,0.3,-0.14
+Vaccination,0.01,0.15,-0.14
+Bilingual services,0.07,0.2,-0.14
+Indigenous governments,0.14,0.0,0.14
+Information,0.14,0.0,0.14
+National security,0.27,0.4,-0.14
+Sovereignty,0.22,0.09,0.14
+Drug insurance,0.04,0.17,-0.13
+Death,0.11,0.24,-0.13
+Charter of rights and freedoms,0.13,0.0,0.13
+Misappropriation of funds,0.17,0.3,-0.13
+Media,0.11,0.24,-0.13
+Industrial products,0.16,0.03,0.12
+Emergency services,0.12,0.24,-0.12
+Security,0.21,0.33,-0.12
+Contracts,0.16,0.28,-0.12
+Religion,0.18,0.06,0.12
+Fire,0.06,0.18,-0.12
+Greenhouse gases,0.07,0.18,-0.12
+Organizations,0.12,0.0,0.12
+Mortgage loans,0.08,0.19,-0.11
+Social problems,0.12,0.23,-0.11
+Disasters,0.15,0.26,-0.11
+Agriculture,0.22,0.33,-0.11
+Land claims,0.13,0.02,0.11
+Banks,0.11,0.0,0.11
+Home-based businesses,0.11,0.0,0.11
+Technological innovation,0.11,0.0,0.11
+Poverty,0.14,0.25,-0.11
+Elderly care,0.14,0.25,-0.11
+Health professionals,0.13,0.23,-0.1
+Trade,0.13,0.02,0.1
+Disability pensions,0.04,0.14,-0.1
+Courts,0.3,0.19,0.1
+Market development,0.17,0.07,0.1
+Drug addiction,0.06,0.16,-0.1
+Ethnic groups,0.09,0.19,-0.1
+Logistics,0.07,0.17,-0.1
+Federal institutions,0.43,0.53,-0.1
+Heating,0.01,0.11,-0.1
+Public safety,0.37,0.27,0.1
+Community relations,0.35,0.45,-0.1
+Ethics,0.17,0.27,-0.1
+Aid programs,1.09,1.18,-0.09
+Leasing,0.12,0.21,-0.09
+Resignation,0.04,0.13,-0.09
+Caregivers,0.15,0.24,-0.09
+Collective bargaining,0.2,0.29,-0.09
+Labour unions,0.09,0.0,0.09
+Defence industry,0.11,0.02,0.09
+Social media,0.09,0.18,-0.09
+Income,0.12,0.22,-0.09
+International finance,0.12,0.03,0.09
+Construction,0.17,0.07,0.09
+Economic regulations,0.15,0.06,0.09
+Climate,0.08,0.17,-0.09
+Terrorism,0.16,0.25,-0.09
+Peacekeeping,0.1,0.19,-0.09
+Energy,0.11,0.03,0.09
+Foreign affairs,0.24,0.32,-0.09
+Electoral districts,0.4,0.49,-0.09
+Environmental management,0.1,0.19,-0.09
+Profitability,0.04,0.12,-0.08
+Gasoline,0.16,0.08,0.08
+Forest fires,0.01,0.09,-0.08
+Claims,0.2,0.28,-0.08
+Environmental impact,0.12,0.2,-0.08
+Fiscal law,0.18,0.1,0.08
+Rail transport,0.14,0.06,0.08
+Consumerism,0.14,0.06,0.08
+Environmental technology,0.04,0.12,-0.08
+Deportation,0.1,0.02,0.08
+Contracting,0.05,0.12,-0.08
+Legal aid,0.24,0.17,0.08
+Grants,0.27,0.19,0.07
+Regional cooperation,0.07,0.0,0.07
+Visas,0.07,0.0,0.07
+Race relations,0.05,0.12,-0.07
+Labour relations,0.41,0.48,-0.07
+Taxation regulations,0.13,0.05,0.07
+Labour disputes,0.3,0.37,-0.07
+Motor vehicles,0.13,0.06,0.07
+Industrial development,0.14,0.07,0.07
+Cultural groups,0.07,0.0,0.07
+Income security,0.16,0.23,-0.07
+Humanitarian crisis,0.04,0.11,-0.07
+Workplace,0.36,0.43,-0.07
+Children's health,0.03,0.1,-0.07
+Storms,0.0,0.07,-0.07
+Aerospace industry,0.08,0.02,0.07
+Criminal code,0.14,0.08,0.07
+Small businesses,0.07,0.0,0.07
+Student labour,0.08,0.01,0.07
+Environmental emergencies,0.01,0.07,-0.06
+Agri-food products,0.13,0.06,0.06
+Crime prevention,0.17,0.1,0.06
+Audit,0.07,0.14,-0.06
+Population,0.06,0.0,0.06
+National income,0.17,0.11,0.06
+Indigenous programs,0.09,0.16,-0.06
+Legal rights,0.2,0.14,0.06
+Postal services,0.11,0.05,0.06
+Renewable energy,0.04,0.1,-0.06
+Preschool education,0.01,0.07,-0.06
+Human rights,0.91,0.97,-0.06
+Forestry products,0.07,0.01,0.06
+Foreign service,0.11,0.17,-0.06
+Industry,0.17,0.11,0.06
+Security intelligence,0.02,0.08,-0.06
+Fiscal assistance,0.14,0.08,0.06
+Public opinion,0.37,0.43,-0.06
+Policing,0.06,0.0,0.06
+Industrial workers,0.1,0.04,0.06
+Electoral system,0.31,0.37,-0.06
+Tourism,0.04,0.09,-0.06
+Urban development,0.04,0.1,-0.06
+Charitable organizations,0.09,0.15,-0.06
+Insurance,0.01,0.07,-0.06
+Correctional institutions,0.38,0.32,0.06
+Drugs,0.07,0.12,-0.06
+Regulations,0.47,0.53,-0.06
+Agricultural workers,0.19,0.25,-0.06
+Mergers,0.01,0.07,-0.06
+Youth,0.13,0.08,0.06
+Warrants,0.09,0.03,0.06
+Diabetes,0.0,0.06,-0.06
+Forestry,0.11,0.05,0.06
+Manufacturing industry,0.11,0.06,0.06
+Subsidized housing,0.11,0.16,-0.06
+Religious buildings,0.09,0.04,0.06
+Daycare,0.03,0.08,-0.05
+Artists,0.03,0.08,-0.05
+Outdoor recreation,0.05,0.1,-0.05
+Vocational training,0.07,0.02,0.05
+Food,0.11,0.05,0.05
+Education,0.04,0.09,-0.05
+Excise taxes,0.07,0.02,0.05
+Employment programs,0.11,0.06,0.05
+Nonprofit organizations,0.13,0.18,-0.05
+Foreign aid,0.05,0.0,0.05
+Space exploration,0.06,0.01,0.05
+Woodworking industry,0.07,0.02,0.05
+Financial crisis,0.14,0.09,0.05
+International organizations,0.1,0.15,-0.05
+Emergency relief,0.04,0.09,-0.05
+Broadcasting industry,0.02,0.06,-0.05
+Women,0.16,0.21,-0.05
+Electric vehicles,0.15,0.1,0.05
+Racial discrimination,0.03,0.08,-0.05
+Law,0.12,0.07,0.05
+Internet,0.02,0.06,-0.05
+Economic crime,0.08,0.13,-0.04
+Red tape reduction,0.04,0.0,0.04
+Family businesses,0.04,0.0,0.04
+Military law,0.06,0.01,0.04
+Technology,0.08,0.12,-0.04
+Whistleblower protection,0.01,0.05,-0.04
+Residential schools,0.01,0.05,-0.04
+Constitutional law,0.15,0.1,0.04
+Foreign investments,0.13,0.09,0.04
+Transfer payments,0.14,0.18,-0.04
+Security investigations,0.04,0.0,0.04
+Abortion,0.0,0.04,-0.04
+Nutrition,0.11,0.06,0.04
+Volunteer work,0.11,0.15,-0.04
+Development,0.09,0.05,0.04
+Media relations,0.04,0.0,0.04
+Economic forecasting,0.1,0.06,0.04
+Pensions,0.32,0.36,-0.04
+Urban communities,0.13,0.17,-0.04
+Automobiles,0.08,0.04,0.04
+Atmospheric emissions,0.02,0.06,-0.04
+Health care facilities,0.12,0.16,-0.04
+Farmlands,0.06,0.02,0.04
+Beef cattle,0.05,0.01,0.04
+Visits of state,0.04,0.0,0.04
+Information dissemination,0.05,0.09,-0.04
+Air transport,0.02,0.06,-0.04
+Community services,0.13,0.17,-0.04
+Steel,0.05,0.01,0.04
+Mining industry,0.08,0.05,0.04
+Weapons,0.09,0.13,-0.04
+Natural resources,0.19,0.15,0.04
+Advertising,0.06,0.1,-0.04
+Suicide,0.02,0.06,-0.04
+Retail trade,0.13,0.09,0.04
+Economic sanctions,0.06,0.1,-0.04
+Young adults,0.07,0.04,0.04
+Working conditions,0.32,0.35,-0.04
+Family,0.21,0.24,-0.04
+Waste,0.17,0.21,-0.04
+Lakes,0.02,0.05,-0.04
+Indigenous rights,0.14,0.11,0.04
+Financial audit,0.02,0.05,-0.04
+Industrial buildings,0.07,0.03,0.04
+Information systems,0.03,0.06,-0.04
+Computer security,0.18,0.14,0.04
+Homicide,0.19,0.23,-0.04
+International security,0.04,0.0,0.04
+Public health,0.07,0.1,-0.03
+Gender equality,0.06,0.09,-0.03
+Training,0.06,0.03,0.03
+Social assistance,0.39,0.43,-0.03
+Coal,0.01,0.04,-0.03
+Student loans,0.01,0.04,-0.03
+Functional foods,0.03,0.0,0.03
+Border crossing,0.03,0.0,0.03
+Disadvantaged persons,0.11,0.15,-0.03
+Euthanasia,0.03,0.06,-0.03
+Offences,0.13,0.1,0.03
+Ocean energy,0.0,0.03,-0.03
+Household finance,0.18,0.15,0.03
+Taxes,1.65,1.61,0.03
+Urban planning,0.03,0.0,0.03
+Property,0.04,0.01,0.03
+Conservation areas,0.1,0.06,0.03
+Research,0.11,0.14,-0.03
+Lobbying,0.16,0.19,-0.03
+Diseases,0.03,0.06,-0.03
+Electronic equipment,0.05,0.02,0.03
+Communications,0.02,0.05,-0.03
+Research grants,0.03,0.06,-0.03
+Evacuations,0.01,0.04,-0.03
+Modernization,0.19,0.15,0.03
+Fundraising,0.17,0.2,-0.03
+Music industry,0.05,0.08,-0.03
+Road safety,0.05,0.02,0.03
+Pesticides,0.04,0.01,0.03
+Private sector,0.17,0.14,0.03
+Refugees,0.17,0.14,0.03
+International law,0.09,0.06,0.03
+Floods,0.03,0.06,-0.03
+Propaganda,0.05,0.08,-0.03
+Fire prevention,0.03,0.06,-0.03
+Employment insurance,0.04,0.07,-0.03
+Railway installations,0.04,0.01,0.03
+Capital,0.04,0.01,0.03
+Household income,0.39,0.36,0.03
+Space technology,0.03,0.0,0.03
+Environmental programs,0.03,0.06,-0.03
+Finance,0.13,0.1,0.03
+Health hazards,0.06,0.09,-0.03
+Travel,0.06,0.08,-0.03
+Hearing disabilities,0.04,0.07,-0.03
+Minorities,0.1,0.12,-0.03
+Educational funding,0.08,0.05,0.03
+Low income,0.12,0.15,-0.03
+Metalworking industry,0.06,0.03,0.03
+Energy technology,0.05,0.02,0.03
+Management,0.13,0.11,0.03
+Cultural institutions,0.03,0.0,0.03
+Judges,0.06,0.03,0.03
+Inmates,0.1,0.08,0.03
+Vacations,0.01,0.04,-0.03
+Wind energy,0.01,0.04,-0.03
+Hunger,0.07,0.09,-0.03
+Financial assistance,0.08,0.11,-0.03
+Immigrants,0.18,0.16,0.03
+Military technology,0.02,0.05,-0.03
+Fines,0.03,0.05,-0.03
+Environmental protection,0.18,0.2,-0.03
+Hazardous materials transport,0.04,0.07,-0.03
+Natural gas,0.04,0.07,-0.03
+Global warming,0.02,0.04,-0.03
+Consumer protection,0.09,0.06,0.03
+Disaster relief,0.01,0.04,-0.03
+Water use,0.03,0.0,0.03
+War,0.19,0.22,-0.03
+Gambling,0.03,0.01,0.03
+Humour,0.07,0.1,-0.03
+Salt water fish,0.04,0.02,0.03
+Urban environment,0.06,0.09,-0.03
+Human trafficking,0.06,0.08,-0.03
+Minerals,0.06,0.03,0.03
+Parole,0.05,0.03,0.03
+Meat,0.03,0.01,0.03
+Farms,0.1,0.13,-0.03
+Service contracts,0.01,0.04,-0.03
+Drug use,0.05,0.08,-0.03
+Rural communities,0.08,0.11,-0.03
+Audiovisual equipment,0.02,0.04,-0.03
+Adolescents,0.06,0.04,0.03
+Narcotics,0.13,0.1,0.03
+Ethnic minorities,0.0,0.03,-0.03
+Management information systems,0.05,0.08,-0.02
+Canola oil,0.03,0.0,0.02
+Young offenders,0.04,0.02,0.02
+Clothing,0.01,0.03,-0.02
+Weather,0.02,0.04,-0.02
+Investigations,0.05,0.08,-0.02
+Peace,0.04,0.06,-0.02
+Resource development,0.05,0.02,0.02
+Software,0.03,0.01,0.02
+Poultry,0.01,0.03,-0.02
+Violence against women,0.13,0.16,-0.02
+Internal audits,0.0,0.02,-0.02
+Art exhibitions,0.04,0.02,0.02
+Municipal buildings,0.02,0.04,-0.02
+Vehicles,0.06,0.08,-0.02
+Coasts,0.06,0.08,-0.02
+Permits,0.11,0.08,0.02
+Music,0.04,0.07,-0.02
+Children,0.1,0.12,-0.02
+Children's rights,0.06,0.08,-0.02
+Schools,0.09,0.07,0.02
+Tax credits,0.16,0.18,-0.02
+Cinema,0.03,0.05,-0.02
+Mountains,0.03,0.01,0.02
+Pornography,0.01,0.03,-0.02
+Criminal investigations,0.1,0.12,-0.02
+Water,0.03,0.05,-0.02
+Assets,0.04,0.02,0.02
+Disabilities,0.03,0.05,-0.02
+Prescription drugs,0.02,0.04,-0.02
+Language minorities,0.02,0.0,0.02
+Language training,0.02,0.0,0.02
+Fish farming,0.01,0.03,-0.02
+Legal services,0.04,0.02,0.02
+Teachers,0.07,0.09,-0.02
+Screening (Medicine),0.05,0.07,-0.02
+Real estate,0.05,0.07,-0.02
+Infant nutrition,0.03,0.01,0.02
+Parks,0.02,0.04,-0.02
+Furniture,0.09,0.12,-0.02
+Rehabilitation,0.05,0.03,0.02
+Infectious diseases,0.01,0.03,-0.02
+War crimes,0.0,0.02,-0.02
+Cancer,0.03,0.05,-0.02
+Drug laws,0.03,0.05,-0.02
+Agricultural technology,0.04,0.02,0.02
+Migrant workers,0.04,0.06,-0.02
+Alcohol consumption,0.01,0.03,-0.02
+Alcoholic beverages,0.01,0.04,-0.02
+Nongovernmental organizations,0.03,0.05,-0.02
+Veterans,0.28,0.26,0.02
+Child support,0.19,0.21,-0.02
+Processing,0.01,0.03,-0.02
+Human beings,0.07,0.09,-0.02
+Construction materials,0.03,0.01,0.02
+Marine conservation areas,0.01,0.03,-0.02
+Culture,0.06,0.08,-0.02
+Intellectual disabilities,0.04,0.06,-0.02
+Women's health,0.03,0.05,-0.02
+Pharmaceutical industry,0.01,0.03,-0.02
+Business services,0.02,0.04,-0.02
+Military police,0.02,0.0,0.02
+Intergovernmental relations,0.27,0.29,-0.02
+Public relations,0.06,0.08,-0.02
+Labour market,0.05,0.03,0.02
+Forests,0.01,0.03,-0.02
+Social development,0.13,0.11,0.02
+Rivers,0.01,0.03,-0.02
+Cultural diversity,0.05,0.07,-0.02
+Waste management,0.04,0.06,-0.02
+Allied forces,0.01,0.03,-0.02
+Airports,0.04,0.06,-0.02
+Monuments,0.05,0.07,-0.02
+Airlines,0.01,0.03,-0.02
+Adoptive parents,0.01,0.02,-0.02
+Privacy,0.16,0.15,0.02
+Transport industry,0.06,0.04,0.02
+Organ transplantation,0.03,0.01,0.02
+Personal finance,0.02,0.01,0.02
+Websites,0.02,0.03,-0.02
+Food safety,0.04,0.02,0.02
+Occupational health,0.01,0.03,-0.02
+Globalization,0.07,0.05,0.02
+Quarantine,0.0,0.02,-0.02
+Civil rights,0.29,0.31,-0.02
+Water transport industry,0.04,0.03,0.02
+Waterways,0.01,0.03,-0.02
+Markets,0.04,0.02,0.02
+Part-time employment,0.03,0.01,0.02
+Recreation,0.02,0.03,-0.02
+Tax avoidance,0.08,0.06,0.02
+Visual disabilities,0.0,0.02,-0.02
+Public sector,0.27,0.25,0.02
+Domestic architecture,0.03,0.01,0.02
+Service industry,0.08,0.06,0.02
+Artificial intelligence,0.04,0.06,-0.02
+Seasonal employment,0.08,0.06,0.02
+Safety regulations,0.08,0.06,0.02
+Full-time employment,0.03,0.01,0.02
+Copyright,0.0,0.02,-0.02
+Inuit,0.0,0.02,-0.02
+Drug education,0.01,0.03,-0.02
+Blood supply,0.02,0.01,0.02
+Health,0.04,0.06,-0.02
+Indigenous culture,0.01,0.03,-0.02
+Railway safety,0.0,0.02,-0.02
+Privatization,0.01,0.03,-0.02
+Equal opportunities,0.07,0.06,0.02
+Transgender people,0.01,0.02,-0.02
+Television,0.01,0.03,-0.02
+Imprisonment,0.13,0.11,0.02
+Imports,0.05,0.03,0.02
+National heritage,0.04,0.06,-0.02
+Domestic markets,0.03,0.01,0.02
+Tax benefits,0.13,0.12,0.02
+Trucks,0.04,0.06,-0.02
+Literature,0.02,0.03,-0.02
+Environment,0.01,0.03,-0.02
+Parents,0.08,0.07,0.02
+Public access,0.04,0.05,-0.02
+Pollutants,0.0,0.02,-0.02
+Language education,0.02,0.0,0.02
+Water demand,0.02,0.03,-0.02
+Air pollution,0.01,0.02,-0.02
+Ferries,0.03,0.01,0.02
+International travel,0.04,0.05,-0.02
+Cycling,0.02,0.01,0.02
+Sustainable transportation,0.02,0.01,0.02
+Banking,0.06,0.07,-0.02
+Cultural heritage,0.09,0.07,0.02
+International markets,0.03,0.01,0.02
+Harbours,0.08,0.1,-0.02
+Indigenous reserves,0.04,0.03,0.01
+Inventions,0.0,0.02,-0.01
+Sponsorship,0.02,0.03,-0.01
+Multiculturalism,0.03,0.02,0.01
+Plastics industry,0.0,0.02,-0.01
+Pollution prevention,0.01,0.03,-0.01
+Satellites,0.02,0.0,0.01
+Hockey,0.08,0.1,-0.01
+Recreational facilities,0.04,0.03,0.01
+Commonwealth,0.01,0.03,-0.01
+Epidemics,0.01,0.02,-0.01
+Nuclear facilities,0.03,0.01,0.01
+Drought,0.01,0.03,-0.01
+Arctic,0.06,0.08,-0.01
+Wine industry,0.01,0.02,-0.01
+Life expectancy,0.01,0.0,0.01
+Single parent families,0.01,0.0,0.01
+Employment abroad,0.06,0.04,0.01
+School boards,0.02,0.01,0.01
+Greenhouses,0.02,0.01,0.01
+Human security,0.08,0.09,-0.01
+Moratorium,0.01,0.03,-0.01
+Consumers,0.08,0.07,0.01
+Coast guard,0.04,0.03,0.01
+Burials,0.01,0.02,-0.01
+Charters,0.03,0.02,0.01
+Cultural events,0.1,0.12,-0.01
+Photography,0.01,0.02,-0.01
+Horses,0.01,0.02,-0.01
+Business loans,0.01,0.02,-0.01
+Indigenous lands,0.02,0.03,-0.01
+Rural development,0.11,0.12,-0.01
+Bankruptcies,0.03,0.05,-0.01
+Gross domestic product,0.02,0.01,0.01
+International transport,0.03,0.01,0.01
+Petroleum,0.15,0.14,0.01
+Death rate,0.01,0.02,-0.01
+Community justice,0.06,0.05,0.01
+Toxic substances,0.03,0.04,-0.01
+Astronauts,0.01,0.0,0.01
+Federal programs,0.3,0.29,0.01
+Adoption,0.02,0.04,-0.01
+Green products,0.04,0.05,-0.01
+Community development,0.19,0.18,0.01
+Environmental adaptation,0.01,0.03,-0.01
+Electricity,0.06,0.04,0.01
+Survival,0.01,0.0,0.01
+Sales,0.01,0.0,0.01
+Hydropower,0.03,0.01,0.01
+Historic sites,0.0,0.02,-0.01
+Salaries,0.29,0.31,-0.01
+Boundaries,0.17,0.18,-0.01
+Immunization,0.0,0.01,-0.01
+Fishing (Sport),0.02,0.0,0.01
+Dairy industry,0.01,0.02,-0.01
+Diesel fuel,0.03,0.01,0.01
+Systems,0.09,0.08,0.01
+Child safety,0.04,0.05,-0.01
+Emission control technology,0.01,0.02,-0.01
+Employment centres,0.03,0.02,0.01
+Air safety,0.02,0.03,-0.01
+Biological diversity,0.0,0.01,-0.01
+Social programs,0.03,0.04,-0.01
+Gender discrimination,0.03,0.04,-0.01
+Military communications,0.03,0.02,0.01
+Vandalism,0.02,0.03,-0.01
+Sales taxes,0.01,0.0,0.01
+Gangs,0.05,0.06,-0.01
+Employers,0.03,0.02,0.01
+Veteran pensions,0.02,0.0,0.01
+Mentoring,0.03,0.02,0.01
+Explosions,0.0,0.02,-0.01
+Aquatic ecosystems,0.01,0.02,-0.01
+Foreign students,0.06,0.05,0.01
+Drinking water,0.0,0.01,-0.01
+Religious heritage,0.05,0.04,0.01
+Air quality,0.0,0.02,-0.01
+Computer crime,0.05,0.04,0.01
+Beverage industry,0.01,0.02,-0.01
+Medical research,0.02,0.04,-0.01
+Breast cancer,0.0,0.02,-0.01
+Renewable resources,0.03,0.04,-0.01
+Environmental hazards,0.04,0.05,-0.01
+Trade promotion,0.01,0.0,0.01
+Tourism facilities,0.01,0.0,0.01
+Animal husbandry,0.01,0.02,-0.01
+Public transit,0.05,0.06,-0.01
+Hunting (Sport),0.02,0.03,-0.01
+Arms control,0.01,0.02,-0.01
+Corporate income tax,0.0,0.02,-0.01
+Marine accidents,0.01,0.03,-0.01
+Migration,0.13,0.12,0.01
+Child poverty,0.09,0.1,-0.01
+Aging,0.03,0.04,-0.01
+Road networks,0.03,0.04,-0.01
+Conservation,0.03,0.02,0.01
+Tax refunds,0.02,0.03,-0.01
+Respiratory diseases,0.0,0.02,-0.01
+Accessibility,0.01,0.02,-0.01
+Fisheries,0.15,0.14,0.01
+Work permits,0.04,0.05,-0.01
+Labour mobility,0.07,0.06,0.01
+Environmental services,0.01,0.02,-0.01
+Pregnancy,0.01,0.02,-0.01
+Chronic diseases,0.01,0.03,-0.01
+Health insurance,0.08,0.09,-0.01
+Marriage,0.02,0.03,-0.01
+Electronic commerce,0.01,0.02,-0.01
+Tax incentives,0.07,0.06,0.01
+Prospecting,0.03,0.02,0.01
+Radioactive waste,0.0,0.01,-0.01
+Hazardous materials,0.05,0.06,-0.01
+Growth capital,0.02,0.01,0.01
+Heritage,0.06,0.07,-0.01
+Fertility,0.0,0.01,-0.01
+First Nations,0.27,0.29,-0.01
+Scientists,0.04,0.05,-0.01
+Business start-ups,0.01,0.02,-0.01
+Labour union training,0.02,0.01,0.01
+Regional development,0.06,0.05,0.01
+Travel documents,0.01,0.0,0.01
+Snow,0.01,0.0,0.01
+Airplanes,0.01,0.0,0.01
+Nonprescription drugs,0.0,0.01,-0.01
+International development,0.04,0.03,0.01
+Non-repayable contributions,0.01,0.02,-0.01
+Trees,0.0,0.01,-0.01
+Computer services,0.01,0.0,0.01
+Survivor benefits,0.06,0.05,0.01
+Prevention,0.26,0.25,0.01
+Driving,0.01,0.02,-0.01
+Viruses,0.0,0.01,-0.01
+Equipment,0.01,0.02,-0.01
+Programs,0.15,0.16,-0.01
+Telecommunications,0.05,0.06,-0.01
+Workplace violence,0.03,0.02,0.01
+Private investments,0.04,0.03,0.01
+Indigenous law,0.02,0.01,0.01
+Accounting,0.03,0.02,0.01
+Transport,0.06,0.07,-0.01
+Repayable contributions,0.06,0.07,-0.01
+Social services,0.02,0.01,0.01
+Sports events,0.06,0.07,-0.01
+Art works,0.01,0.02,-0.01
+Waste water,0.0,0.01,-0.01
+Aircraft accidents,0.01,0.02,-0.01
+Occupational accidents,0.03,0.02,0.01
+Social security,0.0,0.01,-0.01
+Explosives,0.0,0.01,-0.01
+Community infrastructures,0.34,0.35,-0.01
+Poisoning,0.0,0.01,-0.01
+Developing countries,0.04,0.03,0.01
+Aviation industry,0.03,0.04,-0.01
+Military command,0.02,0.01,0.01
+Furniture industry,0.01,0.0,0.01
+Telephones,0.07,0.08,-0.01
+Water management,0.02,0.03,-0.01
+Workplace pollution,0.0,0.01,-0.01
+Social structure,0.01,0.0,0.01
+Social innovation,0.01,0.0,0.01
+Coastal waters,0.01,0.0,0.01
+Water transport,0.06,0.05,0.01
+Industrial waste,0.01,0.01,0.01
+Warranties,0.01,0.0,0.01
+Claims processing,0.02,0.01,0.01
+Skating,0.0,0.01,-0.01
+Training centres,0.03,0.02,0.01
+Grasslands,0.01,0.01,-0.01
+Rural environment,0.04,0.05,-0.01
+Infants,0.01,0.02,-0.01
+Oil sands,0.02,0.02,-0.01
+Household equipment,0.03,0.04,-0.01
+Community education,0.02,0.02,0.01
+Transportation safety,0.01,0.02,-0.01
+Universities,0.01,0.02,-0.01
+Obesity,0.01,0.01,-0.01
+Fugitives from justice,0.03,0.02,0.01
+Marine installations,0.01,0.02,-0.01
+Forest management,0.04,0.05,-0.01
+Childhood diseases,0.0,0.01,-0.01
+Public buildings,0.02,0.03,-0.01
+Public schools,0.02,0.02,0.01
+Free trade,0.06,0.05,0.01
+Wind,0.01,0.01,-0.01
+Propane,0.0,0.01,-0.01
+Communications equipment,0.01,0.02,-0.01
+Poetry,0.0,0.01,-0.01
+Cemeteries,0.0,0.01,-0.01
+Restaurants,0.02,0.03,-0.01
+Telecommunications networks,0.01,0.02,-0.01
+Trucking industry,0.05,0.05,-0.01
+Rates,0.02,0.03,-0.01
+Social equity,0.0,0.01,-0.01
+Theatre,0.03,0.04,-0.01
+Federal contracts,0.04,0.05,-0.01
+Watercourses,0.0,0.01,-0.01
+Industrial technology,0.02,0.01,0.01
+Slaughtering,0.01,0.02,-0.01
+Gas industry,0.06,0.07,-0.01
+Minimum wage,0.0,0.01,-0.01
+Publishing,0.01,0.0,0.01
+Mortgage assistance,0.02,0.02,-0.01
+Intercity transport,0.01,0.01,0.01
+Architectural heritage,0.0,0.01,-0.01
+Recycling,0.05,0.05,0.01
+Arts,0.02,0.03,-0.01
+Domestic waste,0.07,0.06,0.01
+Soil,0.01,0.01,0.01
+Mortgage insurance,0.0,0.01,-0.01
+Infant care,0.02,0.03,-0.01
+Peas,0.01,0.0,0.01
+War memorials,0.02,0.02,0.01
+Perinatal care,0.0,0.01,-0.01
+Domestic animals,0.01,0.01,0.01
+Beverages,0.02,0.02,0.01
+Lighthouses,0.0,0.01,-0.01
+Festivals,0.02,0.03,-0.01
+Property tax,0.02,0.01,0.01
+Bridges,0.04,0.03,0.01
+Community programs,0.12,0.12,-0.01
+Historical research,0.02,0.02,0.01
+Smoking,0.01,0.02,-0.01
+Molluscs,0.0,0.01,-0.01
+Animal nutrition,0.01,0.01,0.01
+Addiction,0.03,0.03,-0.01
+Funding,0.99,0.99,-0.01
+Fitness,0.03,0.02,0.01
+Labour law,0.04,0.04,-0.01
+Offshore drilling,0.0,0.01,-0.01
+Sports,0.07,0.07,0.01
+Gardening,0.0,0.01,-0.01
+Federal provincial relations,0.13,0.14,-0.01
+National Capital,0.03,0.03,-0.01
+Wheelchairs,0.01,0.0,0.01
+Entrepreneurs,0.06,0.06,0.01
+Maternity benefits,0.01,0.02,-0.01
+Tax fraud,0.1,0.09,0.01
+Visible minorities,0.0,0.01,-0.01
+Temporary employment,0.07,0.06,0.01
+Air transport industry,0.01,0.02,-0.01
+Economic research,0.02,0.01,0.01
+Aquatic animals,0.01,0.01,-0.01
+Water supply,0.01,0.01,-0.01
+Federal territorial relations,0.08,0.07,0.01
+Arrests,0.06,0.05,0.01
+Acid rain,0.0,0.01,-0.01
+Crime against humanity,0.01,0.01,-0.01
+Disposal services,0.01,0.01,0.01
+Hazardous waste,0.0,0.01,-0.01
+Deforestation,0.01,0.02,-0.01
+Rail transport industry,0.01,0.02,-0.01
+Holidays,0.15,0.15,-0.01
+Packaging,0.02,0.01,0.01
+Discrimination,0.25,0.25,0.01
+Armouries,0.01,0.0,0.01
+Agricultural fairs,0.01,0.0,0.01
+Weather warnings,0.01,0.02,-0.01
+Medical law,0.0,0.01,-0.01
+Automobile safety equipment,0.01,0.01,-0.01
+Civil aviation,0.01,0.0,0.01
+Driver education,0.01,0.0,0.01
+Ice,0.01,0.0,0.01
+Indigenous businesses,0.01,0.0,0.01
+Electronic publishing,0.01,0.0,0.01
+Resources management,0.01,0.0,0.01
+Religious architecture,0.0,0.01,-0.01
+Shipping,0.01,0.01,0.01
+Permafrost,0.0,0.01,-0.01
+Multilateral programs,0.03,0.02,0.01
+Bioethics,0.0,0.01,-0.01
+Safety education,0.03,0.02,0.01
+Gardens,0.0,0.01,-0.01
+Cryptography,0.01,0.01,-0.01
+Occupational diseases,0.0,0.01,-0.01
+Violence,0.45,0.45,0.01
+Clean technology,0.0,0.01,-0.01
+Fish,0.01,0.01,-0.01
+Unpaid work,0.01,0.01,-0.01
+Fraud,0.08,0.09,-0.01
+Alzheimer's disease,0.0,0.01,-0.01
+Gross national product,0.0,0.01,-0.01
+Communications industry,0.0,0.01,-0.01
+Logging industry,0.0,0.01,-0.01
+Grains,0.0,0.01,-0.01
+Personal information,0.03,0.02,0.01
+Censorship,0.13,0.14,-0.01
+International programs,0.03,0.03,0.01
+Livestock,0.01,0.01,-0.01
+Food processing,0.02,0.01,0.01
+Job promotion,0.0,0.01,-0.01
+Nuclear technology,0.02,0.02,0.01
+Public pensions,0.01,0.01,-0.01
+Computer systems,0.01,0.0,0.01
+Wine,0.01,0.01,-0.01
+Nuclear power plants,0.01,0.01,0.01
+Health care industry,0.02,0.02,0.01
+Common-law unions,0.02,0.01,0.01
+Violence against children,0.13,0.13,-0.01
+Beekeeping,0.0,0.01,-0.01
+Educational institutions,0.02,0.03,-0.01
+Engineering,0.01,0.0,0.0
+Hunting permits,0.0,0.01,-0.0
+Incentives,0.06,0.06,-0.0
+Emigration,0.01,0.01,-0.0
+Road accidents,0.02,0.02,-0.0
+Data protection,0.06,0.06,-0.0
+Family violence,0.09,0.09,-0.0
+Retirement,0.06,0.06,0.0
+Hydroelectric plants,0.0,0.01,-0.0
+Deafness,0.01,0.01,0.0
+Buses,0.02,0.01,0.0
+Air,0.01,0.01,0.0
+Artefacts,0.0,0.01,-0.0
+Ocean floor,0.01,0.01,-0.0
+Athletes,0.05,0.06,-0.0
+Women workers,0.03,0.04,-0.0
+Nature conservation,0.04,0.05,-0.0
+Public diplomacy,0.01,0.01,-0.0
+Toys,0.0,0.0,-0.0
+Technical services,0.0,0.01,-0.0
+Employment equity,0.0,0.01,-0.0
+Oceans,0.0,0.01,-0.0
+Cattle,0.0,0.01,-0.0
+Colonization,0.0,0.01,-0.0
+Irrigation,0.0,0.01,-0.0
+Adolescence,0.01,0.0,0.0
+Counselling services,0.04,0.04,0.0
+Influenza,0.0,0.0,-0.0
+Birds,0.01,0.01,-0.0
+Commercialization,0.01,0.0,0.0
+Cooperative education,0.0,0.01,-0.0
+Hospitality industry,0.01,0.02,-0.0
+Insurance companies,0.0,0.0,0.0
+Space station,0.0,0.0,0.0
+Media monitoring,0.0,0.0,0.0
+Daylight saving time,0.0,0.0,0.0
+Orchestras,0.0,0.0,0.0
+Gold,0.0,0.0,0.0
+Inspection,0.02,0.01,0.0
+2SLGBTQI+ people,0.01,0.01,-0.0
+Aviation,0.04,0.04,-0.0
+Alternative fuels,0.07,0.06,0.0
+Transborder data flow,0.01,0.01,0.0
+Animal rights,0.02,0.02,0.0
+Transplantation (Medicine),0.01,0.0,0.0
+Painting,0.0,0.01,-0.0
+Earthquakes,0.0,0.01,-0.0
+Estates,0.0,0.0,-0.0
+Social rights,0.02,0.02,0.0
+Olympic games,0.03,0.02,0.0
+Military aircraft,0.01,0.0,0.0
+Crustaceans,0.0,0.01,-0.0
+Water conservation,0.0,0.01,-0.0
+Gay people,0.0,0.01,-0.0
+Greenhouse effect,0.0,0.01,-0.0
+Composting,0.0,0.0,-0.0
+Commercial buildings,0.01,0.01,-0.0
+Health care products,0.02,0.03,-0.0
+Dams,0.0,0.01,-0.0
+Intellectual property,0.01,0.02,-0.0
+Child custody,0.01,0.0,0.0
+Glass,0.0,0.01,-0.0
+Prairie ecosystems,0.03,0.03,-0.0
+Performing arts,0.01,0.01,-0.0
+Animals,0.0,0.01,-0.0
+Edible oils and fats,0.01,0.01,0.0
+Decentralization,0.01,0.02,-0.0
+Postsecondary education,0.02,0.02,0.0
+Secondary schools,0.01,0.02,-0.0
+Loans,0.1,0.1,-0.0
+Lease,0.01,0.01,0.0
+Marketing,0.01,0.01,-0.0
+Food inspection,0.01,0.0,0.0
+Medicine,0.01,0.0,0.0
+Erosion,0.0,0.01,-0.0
+Freight,0.02,0.02,0.0
+Geographic information systems,0.01,0.0,0.0
+Blindness,0.01,0.01,-0.0
+Marijuana,0.01,0.01,0.0
+Sealing,0.01,0.0,0.0
+Centralization,0.01,0.01,-0.0
+Data processing,0.01,0.01,0.0
+Nuclear weapons,0.02,0.02,0.0
+Parenting,0.07,0.07,-0.0
+Products,0.01,0.02,-0.0
+Chemical weapons,0.0,0.01,-0.0
+Coffee,0.01,0.01,0.0
+Medical products industry,0.0,0.01,-0.0
+Water pollution,0.02,0.02,0.0
+Smoking prevention,0.01,0.01,0.0
+Public funding,0.17,0.17,-0.0
+Toxic spills,0.0,0.01,-0.0
+Medical technology,0.02,0.02,0.0
+Tunnels,0.0,0.01,-0.0
+Public architecture,0.01,0.01,0.0
+Chemicals,0.0,0.01,-0.0
+Games,0.03,0.04,-0.0
+Queer people,0.0,0.01,-0.0
+Potatoes,0.01,0.01,0.0
+Dairy products,0.02,0.02,-0.0
+Licensing,0.01,0.01,0.0
+Biological weapons,0.0,0.0,-0.0
+Heritage buildings,0.01,0.01,-0.0
+Real estate industry,0.02,0.02,-0.0
+Milk,0.0,0.0,-0.0
+Military training,0.02,0.02,-0.0
+Hiking,0.0,0.0,-0.0
+Safety equipment,0.01,0.01,0.0
+Heritage conservation,0.01,0.01,-0.0
+Metals,0.01,0.01,0.0
+Capital markets,0.01,0.0,0.0
+Whales,0.0,0.01,-0.0
+Computer networks,0.01,0.0,0.0
+Tobacco industry,0.0,0.0,-0.0
+Degenerative diseases,0.01,0.01,-0.0
+Soil conservation,0.0,0.0,0.0
+Submarines,0.0,0.0,-0.0
+Aquatic plants,0.0,0.0,0.0
+Trains,0.01,0.0,0.0
+Forecasting,0.05,0.05,-0.0
+Inuvialuit,0.0,0.0,-0.0
+Marine safety equipment,0.0,0.0,-0.0
+Rodents,0.0,0.01,-0.0
+Resources conservation,0.0,0.0,0.0
+Battlefields,0.01,0.02,-0.0
+Biological warfare,0.0,0.0,-0.0
+Beer,0.01,0.01,-0.0
+Robotics,0.01,0.0,0.0
+Bicycle paths,0.0,0.0,-0.0
+Migratory birds,0.01,0.0,0.0
+Antarctic,0.0,0.0,-0.0
+Educational technology,0.0,0.0,0.0
+Ornamental plants,0.0,0.0,-0.0
+Civil law,0.01,0.0,0.0
+Labour force,0.39,0.39,0.0
+Cultural development,0.03,0.03,0.0
+Private schools,0.0,0.0,0.0
+Materials technology,0.0,0.0,0.0
+Gender-nonconforming people,0.01,0.01,-0.0
+Passports,0.0,0.0,0.0
+Radio,0.0,0.0,0.0
+Second language education,0.0,0.0,0.0
+Indigenous policing,0.0,0.0,0.0
+Historical societies,0.0,0.0,0.0
+Electric power stations,0.04,0.04,-0.0
+Home education,0.0,0.0,0.0
+Eggs,0.01,0.0,0.0
+Sculpture,0.0,0.0,0.0
+Viticulture,0.0,0.0,-0.0
+Folklore,0.0,0.0,-0.0
+Exchange rates,0.0,0.0,-0.0
+Patents,0.0,0.0,0.0
+Exchange programs,0.0,0.01,-0.0
+Landmines,0.0,0.0,-0.0
+Confidentiality,0.11,0.11,-0.0
+Intellectual capital,0.0,0.0,-0.0
+Child development,0.04,0.04,0.0
+Wheat,0.0,0.0,-0.0
+Rail companies,0.01,0.01,0.0
+Personal income,0.02,0.02,0.0
+Nationalism,0.02,0.02,-0.0
+Telework,0.0,0.0,-0.0
+Part-time students,0.0,0.0,0.0
+Animal migrations,0.0,0.0,0.0
+Satellite imagery,0.0,0.0,-0.0
+Domestic trade,0.01,0.01,0.0
+Terrestrial ecosystems,0.0,0.01,-0.0
+Chemical industry,0.0,0.0,-0.0
+Railway networks,0.03,0.03,0.0
+Offshore area,0.01,0.01,-0.0
+Equipment industry,0.0,0.01,-0.0
+Forestry technology,0.0,0.0,0.0
+Personal care products,0.0,0.01,-0.0
+Air conditioning,0.0,0.0,-0.0
+Hogs,0.0,0.01,-0.0
+Vegetables,0.0,0.0,-0.0
+Programming,0.0,0.0,0.0
+Medical products,0.0,0.01,-0.0
+Cultural industry,0.02,0.02,-0.0
+Divestiture,0.0,0.0,-0.0
+Cheese,0.0,0.0,0.0
+Crop insurance,0.0,0.0,0.0
+Tolls,0.0,0.0,-0.0
+Birth,0.02,0.02,0.0
+Computers,0.0,0.0,-0.0
+Natural heritage,0.01,0.01,-0.0
+Amateur sports,0.0,0.0,0.0
+Trademarks,0.0,0.0,-0.0
+Information technology,0.01,0.01,0.0
+Water quality,0.0,0.0,-0.0
+Crops,0.02,0.02,-0.0
+Insects,0.0,0.0,0.0
+Marine safety,0.03,0.02,0.0
+Cardiovascular diseases,0.01,0.01,-0.0
+Consumer loans,0.0,0.0,-0.0
+Ozone depletion,0.0,0.0,-0.0
+Maple products,0.01,0.01,-0.0
+Nuclear energy,0.02,0.02,-0.0
+AIDS (disease),0.0,0.0,0.0
+Pests,0.01,0.0,0.0
+Harassment,0.1,0.1,-0.0
+Animal populations,0.0,0.01,-0.0
+Soil pollution,0.0,0.0,-0.0
+Aquaculture,0.0,0.0,0.0
+Polar regions,0.0,0.0,-0.0
+Primates,0.0,0.0,0.0
+Amphibians,0.0,0.0,-0.0
+Seas,0.0,0.01,-0.0
+Tides,0.0,0.0,0.0
+Price regulation,0.23,0.23,-0.0
+Nonrenewable resources,0.02,0.02,-0.0
+Interprovincial relations,0.01,0.02,-0.0
+Aquatic wildlife,0.0,0.01,-0.0
+Electrical appliances,0.0,0.0,0.0
+Same-sex couples,0.0,0.0,-0.0
+Alcoholism,0.03,0.04,-0.0
+Couples,0.01,0.0,0.0
+Cellular telephones,0.02,0.02,-0.0
+Skiing,0.0,0.0,0.0
+Conciliation,0.01,0.01,0.0
+Reptiles,0.0,0.0,-0.0
+Personal digital assistant,0.0,0.0,0.0
+Regulatory agencies,0.09,0.09,0.0
+Gender-based violence,0.09,0.08,0.0
+Soil quality,0.0,0.0,0.0
+Gases,0.0,0.0,-0.0
+Weeds,0.0,0.0,-0.0
+Train stations,0.0,0.0,0.0
+Apples,0.01,0.01,-0.0
+Bonds,0.01,0.01,0.0
+Furs,0.0,0.0,0.0
+Watersheds,0.02,0.02,-0.0
+Tissues,0.0,0.0,-0.0
+Farm buildings,0.0,0.0,-0.0
+Famine,0.01,0.02,-0.0
+Therapy,0.02,0.02,0.0
+Fungi,0.0,0.0,-0.0
+Fruits,0.01,0.01,-0.0
+Vitamins,0.0,0.0,0.0
+Forgery,0.01,0.01,-0.0
+Lettuce,0.01,0.01,0.0
+Occupational safety,0.09,0.09,-0.0
+Radiation,0.0,0.0,-0.0
+Students,0.07,0.07,-0.0
+Poaching,0.0,0.0,-0.0
+Architecture,0.0,0.0,0.0
+Environmental education,0.03,0.03,-0.0
+Children's literature,0.01,0.0,0.0
+Landslides,0.0,0.01,-0.0
+Product development,0.01,0.01,0.0
+Freshwater fish,0.0,0.0,0.0
+Animal testing,0.0,0.0,-0.0
+Surgeons,0.0,0.0,-0.0
+Biomedical experiments,0.0,0.0,0.0
+Personal assets,0.0,0.0,-0.0
+Innu,0.0,0.0,-0.0
+Jewellery,0.0,0.0,-0.0
+Corn,0.0,0.0,-0.0
+Bioenergy,0.0,0.0,-0.0
+Carrots,0.0,0.0,-0.0
+Accidents,0.02,0.02,-0.0
+World heritage,0.0,0.0,-0.0
+Elder abuse,0.02,0.02,-0.0
+Research institutes,0.0,0.01,-0.0
+Streams,0.01,0.01,-0.0
+Trapping,0.0,0.0,0.0
+Buildings,0.02,0.02,-0.0
+Inequality,0.01,0.01,-0.0
+Drilling,0.0,0.01,-0.0
+Regional markets,0.0,0.0,0.0
+Genetic engineering,0.0,0.0,-0.0
+Insurable earnings,0.0,0.0,-0.0
+Ships,0.03,0.03,-0.0
+Protected species,0.0,0.0,0.0
+Reproductive technology,0.0,0.0,-0.0
+Allergies,0.0,0.0,-0.0
+Physical disabilities,0.0,0.0,-0.0
+Regions,0.03,0.03,-0.0
+Studies abroad,0.0,0.01,-0.0
+Patented medicines,0.0,0.0,-0.0
+Grain elevators,0.0,0.0,-0.0
+Foster children,0.0,0.0,-0.0
+Workplace automation,0.0,0.0,-0.0
+Severance pay,0.01,0.0,0.0
+Textile industry,0.0,0.0,0.0
+Military colleges,0.0,0.0,-0.0
+Divorce,0.0,0.0,-0.0
+Aircraft,0.03,0.03,0.0
+Accessible transport,0.0,0.0,-0.0
+Fishing ships,0.0,0.0,-0.0
+Life insurance,0.0,0.0,0.0
+Colleges,0.0,0.0,0.0
+Income tax,0.03,0.03,-0.0
+Maritime law,0.01,0.01,-0.0
+Weaving,0.0,0.01,-0.0
+Rubber industry,0.0,0.0,-0.0
+Living organisms,0.0,0.0,0.0
+Biotechnology,0.0,0.0,0.0
+Contaminated sites,0.01,0.01,-0.0
+Digital technology,0.03,0.03,0.0
+Networks,0.01,0.01,-0.0
+Hygiene,0.0,0.01,-0.0
+Distance education,0.01,0.01,0.0
+Vegetable crops,0.01,0.01,-0.0
+Radioactive materials,0.0,0.01,-0.0
+Financial services,0.01,0.01,-0.0
+Paternity benefits,0.0,0.0,0.0
+Animal health,0.0,0.0,0.0
+Elementary education,0.01,0.01,-0.0
+Mechanical engineering,0.0,0.0,0.0
+Plant diseases,0.0,0.0,0.0
+Non-Status Indians,0.0,0.0,0.0
+Recyclable materials,0.0,0.0,0.0
+Art galleries,0.0,0.0,0.0
+Status Indians,0.0,0.0,0.0
+Silver,0.0,0.0,0.0
+Rodenticides,0.0,0.0,0.0
+Insulation,0.0,0.0,0.0
+Destroyers,0.0,0.0,0.0
+Real property services,0.0,0.0,0.0
+Dairy cattle,0.0,0.0,-0.0
+Smog,0.0,0.0,-0.0
+Foster families,0.02,0.01,0.0
+Humidity,0.0,0.0,-0.0
+Shares,0.02,0.02,-0.0
+Electrical equipment,0.01,0.01,0.0
+Laboratories,0.0,0.01,-0.0
+Mammals,0.0,0.0,0.0
+Fresh water,0.0,0.0,-0.0
+Boreal ecosystems,0.0,0.0,-0.0
+Isolated communities,0.02,0.03,-0.0
+Venture capital,0.0,0.0,-0.0
+Railway accidents,0.01,0.01,-0.0
+Hatcheries,0.0,0.0,-0.0
+Concrete,0.02,0.02,-0.0
+Groundwater,0.0,0.0,-0.0
+Military architecture,0.01,0.01,-0.0
+Visual arts,0.0,0.0,0.0
+Oil spills,0.03,0.03,0.0
+Sexual orientation,0.0,0.0,0.0
+Scientific equipment,0.0,0.0,-0.0
+Road transport,0.03,0.03,0.0
+Fertilizers,0.03,0.03,-0.0
+Surveys,0.01,0.01,-0.0
+Professional development,0.02,0.02,0.0
+Genetically modified foods,0.0,0.0,-0.0
+Sexual harassment,0.02,0.02,-0.0
+Assistive technologies,0.01,0.01,-0.0
+Honey,0.0,0.0,-0.0
+Aquatic birds,0.0,0.0,-0.0
+Forage crops,0.0,0.0,-0.0
+Canals,0.0,0.0,0.0
+Inland waters,0.0,0.0,0.0
+Signs,0.04,0.03,0.0
+Surgery,0.01,0.01,-0.0
+Electronics,0.0,0.0,0.0
+Trade shows,0.0,0.0,0.0
+International exhibitions,0.0,0.0,0.0
+Stock markets,0.01,0.0,0.0
+Mining accidents,0.0,0.0,-0.0
+Tea,0.0,0.0,0.0
+Folk art,0.0,0.0,0.0
+Glass industry,0.0,0.0,-0.0
+Sexually transmitted diseases,0.0,0.0,-0.0
+Animal research,0.0,0.0,0.0
+Methadone,0.0,0.0,0.0
+Personal income tax,0.0,0.0,0.0
+Irradiation,0.0,0.0,0.0
+Whaling,0.0,0.0,0.0
+Prostitution,0.0,0.0,-0.0
+Barley,0.0,0.0,0.0
+Fisheries technology,0.01,0.01,0.0
+Beans,0.0,0.0,-0.0
+Office automation,0.0,0.0,-0.0
+Butterflies,0.0,0.0,-0.0
+Biodegradation,0.0,0.0,-0.0
+Graphic arts,0.0,0.0,0.0
+Pottery,0.0,0.0,-0.0
+Drainage,0.0,0.0,-0.0
+Customer services,0.02,0.02,-0.0
+Inheritance,0.0,0.0,0.0
+Helicopters,0.0,0.0,-0.0
+Computer science,0.0,0.0,-0.0
+Science education,0.01,0.0,0.0
+Birth rate,0.0,0.0,0.0
+Royalties,0.01,0.01,-0.0
+International courts,0.01,0.01,-0.0
+Navigation systems,0.0,0.0,-0.0
+Horticulture,0.0,0.0,-0.0
+Casinos,0.0,0.0,-0.0
+Habitats,0.01,0.0,0.0
+Commercial architecture,0.0,0.0,0.0
+Archaeological investigations,0.0,0.0,0.0
+Illustrations,0.0,0.0,0.0
+Interprovincial transport,0.0,0.0,0.0
+Clothing industry,0.0,0.0,-0.0
+Property and casualty insurance,0.0,0.0,-0.0
+Coronaviruses,0.0,0.0,-0.0
+Crafts,0.0,0.01,-0.0
+Precipitation,0.0,0.0,0.0
+Salt water,0.0,0.01,-0.0
+Electronics industry,0.0,0.0,-0.0
+Chemical warfare,0.0,0.0,-0.0
+Parking,0.0,0.0,-0.0
+Stem cells,0.0,0.0,-0.0
+Endangered species,0.03,0.03,0.0
+Biological products,0.0,0.0,0.0
+Ornaments,0.0,0.0,-0.0
+Cruise ships,0.0,0.0,-0.0
+Secondary education,0.0,0.0,-0.0
+Fossils,0.0,0.0,-0.0
+Computer programming,0.0,0.0,-0.0
+Biochemicals,0.0,0.0,0.0
+Organic foods,0.0,0.0,0.0
+Telehealth,0.0,0.0,0.0
+Game (Wildlife),0.0,0.0,0.0
+Winter sports,0.03,0.03,-0.0
+Family education,0.01,0.01,-0.0
+Human capital,0.0,0.0,0.0
+Frigates,0.0,0.0,-0.0
+Commercial law,0.03,0.03,-0.0
+Internships,0.0,0.0,0.0
+Industrial research,0.0,0.0,0.0
+Marine heritage,0.01,0.01,-0.0
+Sewing,0.0,0.0,-0.0
+Adults,0.0,0.0,-0.0
+Radioactivity,0.0,0.0,-0.0
+Microorganisms,0.0,0.0,-0.0
+Automation,0.0,0.0,-0.0
+Decorative arts,0.0,0.0,-0.0
+Environmental quality,0.01,0.01,0.0
+Glaciers,0.0,0.0,-0.0
+Animal diseases,0.0,0.0,-0.0
+Gay men,0.0,0.0,-0.0
+Wharfs,0.01,0.01,0.0
+Butter,0.01,0.01,0.0
+Diamonds,0.0,0.0,-0.0
+Ozone,0.0,0.0,-0.0
+Plants,0.01,0.01,-0.0
+Sailboats,0.0,0.0,-0.0
+Wood,0.0,0.0,-0.0
+Pay equity,0.0,0.0,-0.0
+Hibernation,0.0,0.0,-0.0
+Volcanoes,0.0,0.0,-0.0
+Yogurt,0.0,0.0,-0.0
+Grapes,0.0,0.0,-0.0
+Commercial ships,0.0,0.0,-0.0
+Refrigeration equipment,0.0,0.0,0.0
+Lead,0.01,0.01,0.0
+Insecticides,0.0,0.0,0.0
+Cells,0.0,0.0,0.0
+Scholarships,0.01,0.01,0.0
+Invasive species,0.0,0.0,-0.0
+Family law,0.02,0.02,0.0
+Radar,0.0,0.0,-0.0
+Boundary waters,0.0,0.0,-0.0
+Herbicides,0.0,0.0,-0.0
+Occupations,0.04,0.03,0.0
+Ice caps,0.0,0.0,-0.0
+Environmental accidents,0.0,0.0,-0.0
+Ski trails,0.0,0.0,-0.0
+Lesbians,0.0,0.0,-0.0
+Estuaries,0.0,0.0,-0.0
+Wholesale trade,0.0,0.0,-0.0
+Pulp and paper industry,0.02,0.02,0.0
+Electronic waste,0.0,0.0,-0.0
+Zoological gardens,0.0,0.0,-0.0
+Safety,0.04,0.04,0.0
+Mercury,0.0,0.0,-0.0
+Lentils,0.0,0.0,-0.0
+Virtual exhibitions,0.0,0.0,-0.0
+Fluorides,0.0,0.0,-0.0
+Global positioning systems,0.0,0.0,-0.0
+Seafood,0.01,0.01,0.0
+Tsunamis,0.0,0.0,-0.0
+Medicinal plants,0.0,0.0,-0.0
+Biomass,0.0,0.0,0.0
+Hydroponics,0.0,0.0,-0.0
+Labour code,0.02,0.02,-0.0
+Military aviation,0.03,0.03,0.0
+Adulthood,0.0,0.0,0.0
+Technical education,0.0,0.0,0.0
+Decontamination,0.0,0.0,-0.0
+Aquariums,0.0,0.0,-0.0
+Arachnids,0.0,0.0,-0.0
+Cloning,0.0,0.0,-0.0
+Product recalls,0.0,0.0,-0.0
+Learning disabilities,0.0,0.0,-0.0
+Labour,0.1,0.1,-0.0
+Wildlife,0.01,0.01,-0.0
+Bicycle safety equipment,0.0,0.0,-0.0
+Walruses,0.0,0.0,-0.0
+Avalanches,0.0,0.0,-0.0
+Reforestation,0.0,0.0,-0.0
+Mining technology,0.0,0.0,0.0
+Demining,0.0,0.0,0.0
+Cereals,0.0,0.0,-0.0
+Electronic monitoring,0.02,0.02,-0.0
+Ecosystems,0.01,0.01,0.0
+Authors,0.01,0.01,0.0
+Self employment,0.0,0.0,0.0
+Dance,0.01,0.01,-0.0
+Seals,0.01,0.01,-0.0
+Fishing permits,0.0,0.0,-0.0
+Flora,0.0,0.0,-0.0
+Film industry,0.01,0.01,-0.0
+Independent living,0.03,0.03,0.0
+Genetically modified organisms,0.0,0.0,-0.0
+Men,0.01,0.01,0.0
+Animal inspection,0.0,0.0,0.0
+Elementary schools,0.01,0.01,-0.0
+Explorations,0.01,0.01,-0.0
+Shipbuilding,0.02,0.02,0.0
+Geothermal energy,0.0,0.0,0.0
+Wetlands,0.0,0.0,-0.0
+Two-spirit people,0.02,0.02,-0.0
+Solar energy,0.0,0.0,0.0
+Textiles,0.01,0.01,-0.0
+Botanical gardens,0.0,0.0,0.0
+Road construction,0.01,0.01,0.0
+Indigenous youth,0.01,0.01,0.0
+Experiments,0.01,0.01,-0.0
+Weather forecasts,0.0,0.0,0.0
+Shoe industry,0.01,0.01,0.0
+Fruit crops,0.01,0.01,0.0
+Arctic ecosystems,0.0,0.0,0.0

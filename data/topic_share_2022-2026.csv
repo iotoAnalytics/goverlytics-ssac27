@@ -1,0 +1,1325 @@
+rank,topic,records,share_%,cumulative_%
+1,Public administration,9164,3.44,3.44
+2,Elections,6691,2.512,5.952
+3,Housing,5725,2.149,8.101
+4,Public service,5015,1.883,9.984
+5,Taxes,4048,1.52,11.504
+6,Public finance,3133,1.176,12.68
+7,Aid programs,3060,1.149,13.829
+8,Justice system,2930,1.1,14.929
+9,Economic issues,2885,1.083,16.012
+10,Provincial institutions,2833,1.064,17.076
+11,Funding,2797,1.05,18.126
+12,Inflation,2594,0.974,19.1
+13,Human rights,2545,0.955,20.055
+14,Climate change,2478,0.93,20.985
+15,Legal issues,2444,0.917,21.902
+16,Fiscal issues,2335,0.877,22.779
+17,Crisis,2266,0.851,23.63
+18,Health care,2163,0.812,24.442
+19,Economic development,2140,0.803,25.245
+20,Police services,2028,0.761,26.006
+21,Indigenous affairs,2002,0.752,26.758
+22,Budgets,1955,0.734,27.492
+23,Crime,1921,0.721,28.213
+24,Child care,1877,0.705,28.918
+25,Seniors,1796,0.674,29.592
+26,External relations,1624,0.61,30.202
+27,Housing assistance,1570,0.589,30.791
+28,Benefits,1484,0.557,31.348
+29,Investments,1479,0.555,31.903
+30,Immigration,1428,0.536,32.439
+31,Regulations,1379,0.518,32.957
+32,Federal institutions,1353,0.508,33.465
+33,Negotiations,1328,0.499,33.964
+34,Fuels,1299,0.488,34.452
+35,Electoral districts,1279,0.48,34.932
+36,Debt,1250,0.469,35.401
+37,Labour relations,1225,0.46,35.861
+38,Violence,1224,0.459,36.32
+39,Indigenous peoples,1213,0.455,36.775
+40,Emergency preparedness,1198,0.45,37.225
+41,Firearms,1197,0.449,37.674
+42,Infrastructures,1180,0.443,38.117
+43,Corruption,1146,0.43,38.547
+44,Public opinion,1116,0.419,38.966
+45,Workplace,1106,0.415,39.381
+46,Workers,1081,0.406,39.787
+47,Petroleum industry,1080,0.405,40.192
+48,Labour force,1073,0.403,40.595
+49,Community relations,1069,0.401,40.996
+50,Social assistance,1062,0.399,41.395
+51,National security,1052,0.395,41.79
+52,Electoral system,991,0.372,42.162
+53,Food security,990,0.372,42.534
+54,Labour disputes,980,0.368,42.902
+55,Working conditions,956,0.359,43.261
+56,Household income,932,0.35,43.611
+57,Correctional institutions,919,0.345,43.956
+58,Community infrastructures,911,0.342,44.298
+59,Persons with disabilities,894,0.336,44.634
+60,Agri-food industry,889,0.334,44.968
+61,Armed forces,881,0.331,45.299
+62,Oral health,879,0.33,45.629
+63,Foreign interference,867,0.325,45.954
+64,Pensions,834,0.313,46.267
+65,Employment opportunities,830,0.312,46.579
+66,Foreign affairs,815,0.306,46.885
+67,Civil rights,815,0.306,47.191
+68,Security,813,0.305,47.496
+69,Tariffs,808,0.303,47.799
+70,Economy,797,0.299,48.098
+71,Salaries,785,0.295,48.393
+72,Agriculture,778,0.292,48.685
+73,Intergovernmental relations,774,0.291,48.976
+74,Public safety,768,0.288,49.264
+75,Veterans,767,0.288,49.552
+76,Criminal justice,765,0.287,49.839
+77,Misappropriation of funds,754,0.283,50.122
+78,Collective bargaining,753,0.283,50.405
+79,Federal programs,740,0.278,50.683
+80,National debt,723,0.271,50.954
+81,First Nations,722,0.271,51.225
+82,Donations,717,0.269,51.494
+83,Interpersonal relations,711,0.267,51.761
+84,Claims,699,0.262,52.023
+85,Mental health,699,0.262,52.285
+86,Homelessness,699,0.262,52.547
+87,Humanitarian aid,694,0.261,52.808
+88,Prevention,687,0.258,53.066
+89,Public sector,677,0.254,53.32
+90,Contracts,672,0.252,53.572
+91,Ethics,669,0.251,53.823
+92,Discrimination,655,0.246,54.069
+93,Dental insurance,641,0.241,54.31
+94,Criminal law,639,0.24,54.55
+95,Terrorism,633,0.238,54.788
+96,Emergency services,619,0.232,55.02
+97,Media,608,0.228,55.248
+98,Courts,590,0.221,55.469
+99,Elderly care,587,0.22,55.689
+100,Caregivers,585,0.22,55.909
+101,Health professionals,580,0.218,56.127
+102,Disasters,576,0.216,56.343
+103,Family,576,0.216,56.559
+104,Poverty,570,0.214,56.773
+105,War,565,0.212,56.985
+106,Citizenship,562,0.211,57.196
+107,Sexual offences,559,0.21,57.406
+108,Agricultural workers,559,0.21,57.616
+109,Waste,558,0.209,57.825
+110,Child support,555,0.208,58.033
+111,Women,554,0.208,58.241
+112,Employment,552,0.207,58.448
+113,Grants,552,0.207,58.655
+114,Homicide,549,0.206,58.861
+115,Job creation,546,0.205,59.066
+116,International trade,542,0.203,59.269
+117,Price regulation,541,0.203,59.472
+118,Environmental protection,540,0.203,59.675
+119,Death,540,0.203,59.878
+120,Fundraising,525,0.197,60.075
+121,Pipelines,522,0.196,60.271
+122,Bilingual services,507,0.19,60.461
+123,Trade negotiations,507,0.19,60.651
+124,Boundaries,504,0.189,60.84
+125,Social problems,503,0.189,61.029
+126,Income,500,0.188,61.217
+127,Interest rates,499,0.187,61.404
+128,Legal aid,498,0.187,61.591
+129,Income security,497,0.187,61.778
+130,Holidays,490,0.184,61.962
+131,Coronavirus diseases,485,0.182,62.144
+132,Public funding,478,0.179,62.323
+133,Lobbying,473,0.178,62.501
+134,Community development,473,0.178,62.679
+135,Transfer payments,463,0.174,62.853
+136,Leasing,463,0.174,63.027
+137,Tax credits,457,0.172,63.199
+138,Social media,454,0.17,63.369
+139,Environmental management,453,0.17,63.539
+140,Nonprofit organizations,445,0.167,63.706
+141,Environmental impact,439,0.165,63.871
+142,Modernization,436,0.164,64.035
+143,Mortgage loans,435,0.163,64.198
+144,Computer security,431,0.162,64.36
+145,Privacy,430,0.161,64.521
+146,Natural resources,427,0.16,64.681
+147,Foreign service,424,0.159,64.84
+148,Natural disasters,421,0.158,64.998
+149,Immigrants,421,0.158,65.156
+150,Legal rights,418,0.157,65.313
+151,Urban communities,417,0.157,65.47
+152,Violence against women,417,0.157,65.627
+153,Health care facilities,416,0.156,65.783
+154,Drug insurance,415,0.156,65.939
+155,Community services,413,0.155,66.094
+156,Peacekeeping,413,0.155,66.249
+157,Vaccines,410,0.154,66.403
+158,Provincial governments,409,0.154,66.557
+159,Private sector,402,0.151,66.708
+160,Household finance,402,0.151,66.859
+161,Fire,398,0.149,67.008
+162,Greenhouse gases,397,0.149,67.157
+163,Automobile industry,396,0.149,67.306
+164,Programs,396,0.149,67.455
+165,Drug addiction,396,0.149,67.604
+166,Ethnic groups,390,0.146,67.75
+167,International organizations,389,0.146,67.896
+168,Refugees,383,0.144,68.04
+169,Construction industry,381,0.143,68.183
+170,Petroleum,380,0.143,68.326
+171,Censorship,380,0.143,68.469
+172,Research,375,0.141,68.61
+173,Logistics,372,0.14,68.75
+174,Vaccination,363,0.136,68.886
+175,Subsidized housing,362,0.136,69.022
+176,Fisheries,361,0.136,69.158
+177,Weapons,360,0.135,69.293
+178,Charitable organizations,358,0.134,69.427
+179,Unemployment,357,0.134,69.561
+180,Industry,355,0.133,69.694
+181,Indigenous programs,354,0.133,69.827
+182,Low income,354,0.133,69.96
+183,Climate,354,0.133,70.093
+184,Federal provincial relations,349,0.131,70.224
+185,Volunteer work,349,0.131,70.355
+186,Disadvantaged persons,348,0.131,70.486
+187,Sovereignty,339,0.127,70.613
+188,Minorities,333,0.125,70.738
+189,Confidentiality,333,0.125,70.863
+190,Economic crime,333,0.125,70.988
+191,Social development,330,0.124,71.112
+192,Migration,329,0.124,71.236
+193,Drugs,324,0.122,71.358
+194,National income,323,0.121,71.479
+195,Fiscal law,322,0.121,71.6
+196,Tax benefits,320,0.12,71.72
+197,Audit,318,0.119,71.839
+198,Criminal investigations,317,0.119,71.958
+199,Crime prevention,315,0.118,72.076
+200,Technology,313,0.118,72.194
+201,Farms,313,0.118,72.312
+202,Narcotics,308,0.116,72.428
+203,Indigenous rights,307,0.115,72.543
+204,Cultural events,306,0.115,72.658
+205,Rural development,305,0.114,72.772
+206,Management,305,0.114,72.886
+207,Pollution,304,0.114,73.0
+208,Violence against children,304,0.114,73.114
+209,Imprisonment,303,0.114,73.228
+210,Community programs,302,0.113,73.341
+211,Constitutional law,302,0.113,73.454
+212,Furniture,291,0.109,73.563
+213,Lumber industry,289,0.108,73.671
+214,Financial assistance,289,0.108,73.779
+215,Children,287,0.108,73.887
+216,Race relations,287,0.108,73.995
+217,Electric vehicles,287,0.108,74.103
+218,Finance,285,0.107,74.21
+219,Contracting,283,0.106,74.316
+220,Monarchy,283,0.106,74.422
+221,Foreign investments,282,0.106,74.528
+222,Public health,281,0.105,74.633
+223,Loans,281,0.105,74.738
+224,Disability pensions,279,0.105,74.843
+225,Harassment,277,0.104,74.947
+226,Resignation,276,0.104,75.051
+227,Fiscal assistance,275,0.103,75.154
+228,Offences,270,0.101,75.255
+229,Economic sanctions,268,0.101,75.356
+230,Forestry industry,266,0.1,75.456
+231,Environmental technology,266,0.1,75.556
+232,Profitability,263,0.099,75.655
+233,Child poverty,262,0.098,75.753
+234,Tax fraud,259,0.097,75.85
+235,Labour,259,0.097,75.947
+236,Financial crisis,258,0.097,76.044
+237,Businesses,258,0.097,76.141
+238,Rural communities,256,0.096,76.237
+239,Advertising,255,0.096,76.333
+240,Gender-based violence,252,0.095,76.428
+241,Hockey,248,0.093,76.521
+242,Humanitarian crisis,247,0.093,76.614
+243,Occupational safety,246,0.092,76.706
+244,Criminal code,246,0.092,76.798
+245,Gasoline,243,0.091,76.889
+246,Regulatory agencies,243,0.091,76.98
+247,Fraud,242,0.091,77.071
+248,Exports,242,0.091,77.162
+249,Religion,240,0.09,77.252
+250,Hunger,238,0.089,77.341
+251,Humour,238,0.089,77.43
+252,Information dissemination,238,0.089,77.519
+253,Construction,237,0.089,77.608
+254,Health hazards,237,0.089,77.697
+255,Retail trade,236,0.089,77.786
+256,Consumerism,234,0.088,77.874
+257,Family violence,234,0.088,77.962
+258,Outdoor recreation,234,0.088,78.05
+259,Health insurance,232,0.087,78.137
+260,Human security,232,0.087,78.224
+261,Travel,232,0.087,78.311
+262,Youth,231,0.087,78.398
+263,Systems,230,0.086,78.484
+264,Heating,229,0.086,78.57
+265,Gender equality,229,0.086,78.656
+266,Human beings,228,0.086,78.742
+267,Permits,226,0.085,78.827
+268,Teachers,225,0.084,78.911
+269,Industrial development,223,0.084,78.995
+270,Market development,222,0.083,79.078
+271,Law,222,0.083,79.161
+272,Tourism,221,0.083,79.244
+273,Culture,221,0.083,79.327
+274,Agri-food products,220,0.083,79.41
+275,Inmates,220,0.083,79.493
+276,Education,215,0.081,79.574
+277,Drug use,215,0.081,79.655
+278,Renewable energy,215,0.081,79.736
+279,Planning,213,0.08,79.816
+280,Human trafficking,212,0.08,79.896
+281,Economic regulations,211,0.079,79.975
+282,Urban environment,210,0.079,80.054
+283,Cultural heritage,210,0.079,80.133
+284,Consumer protection,207,0.078,80.211
+285,Telephones,205,0.077,80.288
+286,Arctic,204,0.077,80.365
+287,Emergency relief,203,0.076,80.441
+288,Security intelligence,202,0.076,80.517
+289,Conservation areas,201,0.075,80.592
+290,Banking,201,0.075,80.667
+291,Rail transport,201,0.075,80.742
+292,Sports,200,0.075,80.817
+293,Federal territorial relations,200,0.075,80.892
+294,Students,200,0.075,80.967
+295,Children's health,199,0.075,81.042
+296,Consumers,198,0.074,81.116
+297,Investigations,198,0.074,81.19
+298,Coasts,197,0.074,81.264
+299,Music industry,196,0.074,81.338
+300,Management information systems,196,0.074,81.412
+301,Domestic waste,195,0.073,81.485
+302,Screening (Medicine),193,0.072,81.557
+303,Public relations,192,0.072,81.629
+304,Real estate,192,0.072,81.701
+305,Urban development,192,0.072,81.773
+306,Tax avoidance,192,0.072,81.845
+307,Motor vehicles,191,0.072,81.917
+308,Parents,190,0.071,81.988
+309,Employment programs,190,0.071,82.059
+310,Schools,188,0.071,82.13
+311,Artists,188,0.071,82.201
+312,Propaganda,187,0.07,82.271
+313,Vehicles,187,0.07,82.341
+314,Taxation regulations,186,0.07,82.411
+315,Harbours,186,0.07,82.481
+316,Parenting,186,0.07,82.551
+317,Seasonal employment,185,0.069,82.62
+318,Manufacturing industry,185,0.069,82.689
+319,Data protection,184,0.069,82.758
+320,Forest fires,184,0.069,82.827
+321,Labour mobility,184,0.069,82.896
+322,Economic forecasting,184,0.069,82.965
+323,Racial discrimination,183,0.069,83.034
+324,Industrial products,183,0.069,83.103
+325,Gas industry,181,0.068,83.171
+326,Heritage,180,0.068,83.239
+327,Service industry,180,0.068,83.307
+328,Postal services,179,0.067,83.374
+329,Daycare,177,0.066,83.44
+330,Equal opportunities,177,0.066,83.506
+331,Hazardous materials,175,0.066,83.572
+332,Retirement,175,0.066,83.638
+333,Sports events,175,0.066,83.704
+334,Transport,174,0.065,83.769
+335,Children's rights,174,0.065,83.834
+336,Natural gas,174,0.065,83.899
+337,Educational funding,173,0.065,83.964
+338,Airports,173,0.065,84.029
+339,Information systems,173,0.065,84.094
+340,Repayable contributions,173,0.065,84.159
+341,Nutrition,171,0.064,84.223
+342,Safety regulations,171,0.064,84.287
+343,Food,170,0.064,84.351
+344,International law,168,0.063,84.414
+345,Cultural diversity,167,0.063,84.477
+346,Gangs,167,0.063,84.54
+347,Alternative fuels,166,0.062,84.602
+348,Forestry,166,0.062,84.664
+349,Incentives,166,0.062,84.726
+350,Music,165,0.062,84.788
+351,Mining industry,163,0.061,84.849
+352,Artificial intelligence,162,0.061,84.91
+353,Tax incentives,161,0.06,84.97
+354,Research grants,159,0.06,85.03
+355,Entrepreneurs,159,0.06,85.09
+356,Employment insurance,159,0.06,85.15
+357,Globalization,159,0.06,85.21
+358,Broadcasting industry,158,0.059,85.269
+359,Temporary employment,158,0.059,85.328
+360,Hearing disabilities,158,0.059,85.387
+361,International finance,158,0.059,85.446
+362,Public transit,156,0.059,85.505
+363,Migrant workers,156,0.059,85.564
+364,Telecommunications,155,0.058,85.622
+365,Cooperation,155,0.058,85.68
+366,Hazardous materials transport,154,0.058,85.738
+367,Air transport,154,0.058,85.796
+368,Arrests,153,0.057,85.853
+369,Trucks,152,0.057,85.91
+370,Fire prevention,151,0.057,85.967
+371,Environmental programs,151,0.057,86.024
+372,Local governments,150,0.056,86.08
+373,Development,149,0.056,86.136
+374,Preschool education,149,0.056,86.192
+375,Public access,148,0.056,86.248
+376,Diabetes,148,0.056,86.304
+377,Athletes,148,0.056,86.36
+378,National heritage,148,0.056,86.416
+379,Internet,146,0.055,86.471
+380,Health,145,0.054,86.525
+381,Industrial workers,143,0.054,86.579
+382,Religious buildings,142,0.053,86.632
+383,Intellectual disabilities,141,0.053,86.685
+384,Francophonie,141,0.053,86.738
+385,Monuments,140,0.053,86.791
+386,International travel,140,0.053,86.844
+387,Foreign students,138,0.052,86.896
+388,Recycling,138,0.052,86.948
+389,Red tape burdens,138,0.052,87.0
+390,Regional development,137,0.051,87.051
+391,Floods,136,0.051,87.102
+392,Land claims,135,0.051,87.153
+393,Cinema,134,0.05,87.203
+394,Diseases,133,0.05,87.253
+395,Drug laws,133,0.05,87.303
+396,Forecasting,133,0.05,87.353
+397,Rural environment,133,0.05,87.403
+398,Energy,133,0.05,87.453
+399,Warrants,132,0.05,87.503
+400,Community justice,132,0.05,87.553
+401,Trucking industry,132,0.05,87.603
+402,Waste management,131,0.049,87.652
+403,Automobiles,130,0.049,87.701
+404,Survivor benefits,130,0.049,87.75
+405,Nature conservation,129,0.048,87.798
+406,Trade,129,0.048,87.846
+407,Peace,128,0.048,87.894
+408,Free trade,128,0.048,87.942
+409,Environmental hazards,128,0.048,87.99
+410,Atmospheric emissions,128,0.048,88.038
+411,Scientists,127,0.048,88.086
+412,Insurance,127,0.048,88.134
+413,Lakes,127,0.048,88.182
+414,Green products,126,0.047,88.229
+415,Nongovernmental organizations,126,0.047,88.276
+416,Federal contracts,125,0.047,88.323
+417,Work permits,125,0.047,88.37
+418,Environmental emergencies,123,0.046,88.416
+419,Counselling services,122,0.046,88.462
+420,Financial audit,122,0.046,88.508
+421,Water,121,0.045,88.553
+422,Employment abroad,121,0.045,88.598
+423,Water transport,121,0.045,88.643
+424,Military technology,121,0.045,88.688
+425,Euthanasia,121,0.045,88.733
+426,Aviation,121,0.045,88.778
+427,Mergers,120,0.045,88.823
+428,Cancer,120,0.045,88.868
+429,Defence industry,120,0.045,88.913
+430,Forest management,119,0.045,88.958
+431,Judges,118,0.044,89.002
+432,Toxic substances,118,0.044,89.046
+433,Young adults,117,0.044,89.09
+434,Bankruptcies,117,0.044,89.134
+435,Electricity,115,0.043,89.177
+436,Fines,114,0.043,89.22
+437,Adolescents,113,0.042,89.262
+438,Suicide,111,0.042,89.304
+439,Electric power stations,111,0.042,89.346
+440,Women's health,111,0.042,89.388
+441,Whistleblower protection,110,0.041,89.429
+442,Child safety,110,0.041,89.47
+443,Communications,110,0.041,89.511
+444,Training,109,0.041,89.552
+445,Aviation industry,109,0.041,89.593
+446,Transport industry,109,0.041,89.634
+447,Vacations,108,0.041,89.675
+448,Gender discrimination,108,0.041,89.716
+449,Industrial buildings,108,0.041,89.757
+450,Labour law,107,0.04,89.797
+451,Deportation,107,0.04,89.837
+452,Prescription drugs,107,0.04,89.877
+453,Aging,107,0.04,89.917
+454,Religious heritage,106,0.04,89.957
+455,Games,105,0.039,89.996
+456,Community partnerships,105,0.039,90.035
+457,Charitable donations,105,0.039,90.074
+458,Computer crime,104,0.039,90.113
+459,Minerals,104,0.039,90.152
+460,International cooperation,104,0.039,90.191
+461,Parks,104,0.039,90.23
+462,Ships,103,0.039,90.269
+463,Developing countries,102,0.038,90.307
+464,Fertilizers,102,0.038,90.345
+465,Disabilities,102,0.038,90.383
+466,Women workers,101,0.038,90.421
+467,Aerospace industry,100,0.038,90.459
+468,Road networks,100,0.038,90.497
+469,Coal,99,0.037,90.534
+470,Student loans,99,0.037,90.571
+471,Child development,99,0.037,90.608
+472,Prairie ecosystems,98,0.037,90.645
+473,Safety,97,0.036,90.681
+474,Household equipment,97,0.036,90.717
+475,Digital technology,97,0.036,90.753
+476,Aircraft,96,0.036,90.789
+477,Occupations,95,0.036,90.825
+478,Imports,95,0.036,90.861
+479,Audiovisual equipment,95,0.036,90.897
+480,Rehabilitation,95,0.036,90.933
+481,Alcoholism,95,0.036,90.969
+482,Information,94,0.035,91.004
+483,Indigenous governments,94,0.035,91.039
+484,Theatre,93,0.035,91.074
+485,Abortion,92,0.035,91.109
+486,Recreational facilities,92,0.035,91.144
+487,Air safety,92,0.035,91.179
+488,Business services,92,0.035,91.214
+489,Websites,92,0.035,91.249
+490,Addiction,92,0.035,91.284
+491,Bridges,91,0.034,91.318
+492,Regions,91,0.034,91.352
+493,Medical research,91,0.034,91.386
+494,Charter of rights and freedoms,91,0.034,91.42
+495,Global warming,90,0.034,91.454
+496,Social programs,90,0.034,91.488
+497,Renewable resources,89,0.033,91.521
+498,Metalworking industry,88,0.033,91.554
+499,Signs,88,0.033,91.587
+500,International development,87,0.033,91.62
+501,Vocational training,86,0.032,91.652
+502,Sponsorship,86,0.032,91.684
+503,Labour market,86,0.032,91.716
+504,Coast guard,85,0.032,91.748
+505,Literature,85,0.032,91.78
+506,Health care products,84,0.032,91.812
+507,Winter sports,84,0.032,91.844
+508,Weather,84,0.032,91.876
+509,Parole,83,0.031,91.907
+510,Water management,83,0.031,91.938
+511,Marriage,83,0.031,91.969
+512,Farmlands,83,0.031,92.0
+513,Private investments,82,0.031,92.031
+514,International programs,82,0.031,92.062
+515,Environmental education,82,0.031,92.093
+516,Recreation,82,0.031,92.124
+517,Municipal buildings,82,0.031,92.155
+518,National Capital,82,0.031,92.186
+519,Energy technology,82,0.031,92.217
+520,Water demand,81,0.03,92.247
+521,Hunting (Sport),81,0.03,92.277
+522,Road transport,80,0.03,92.307
+523,Student labour,80,0.03,92.337
+524,Electronic equipment,80,0.03,92.367
+525,Cultural development,80,0.03,92.397
+526,Woodworking industry,80,0.03,92.427
+527,Commercial law,80,0.03,92.457
+528,Resource development,79,0.03,92.487
+529,Organizations,79,0.03,92.517
+530,Infectious diseases,78,0.029,92.546
+531,Airlines,78,0.029,92.575
+532,Occupational health,78,0.029,92.604
+533,Evacuations,78,0.029,92.633
+534,Drug education,78,0.029,92.662
+535,Disaster relief,78,0.029,92.691
+536,Clothing,77,0.029,92.72
+537,Infant care,77,0.029,92.749
+538,Educational institutions,77,0.029,92.778
+539,Endangered species,77,0.029,92.807
+540,Service contracts,77,0.029,92.836
+541,Adoption,76,0.029,92.865
+542,Markets,76,0.029,92.894
+543,Military aviation,76,0.029,92.923
+544,Indigenous reserves,76,0.029,92.952
+545,Oil spills,75,0.028,92.98
+546,Water transport industry,75,0.028,93.008
+547,Technological innovation,75,0.028,93.036
+548,Home-based businesses,75,0.028,93.064
+549,Banks,75,0.028,93.092
+550,Railway networks,74,0.028,93.12
+551,Tax refunds,74,0.028,93.148
+552,Excise taxes,74,0.028,93.176
+553,Forestry products,73,0.027,93.203
+554,Independent living,73,0.027,93.23
+555,Vandalism,73,0.027,93.257
+556,Arts,73,0.027,93.284
+557,Festivals,72,0.027,93.311
+558,Personal information,72,0.027,93.338
+559,Alcoholic beverages,72,0.027,93.365
+560,Workplace violence,72,0.027,93.392
+561,Poultry,72,0.027,93.419
+562,Pharmaceutical industry,71,0.027,93.446
+563,Residential schools,71,0.027,93.473
+564,Multilateral programs,71,0.027,93.5
+565,Income tax,70,0.026,93.526
+566,Mentoring,70,0.026,93.552
+567,Chronic diseases,69,0.026,93.578
+568,Waterways,69,0.026,93.604
+569,Storms,68,0.026,93.63
+570,Isolated communities,68,0.026,93.656
+571,Wind energy,68,0.026,93.682
+572,Food safety,68,0.026,93.708
+573,Rivers,66,0.025,93.733
+574,Nuclear weapons,66,0.025,93.758
+575,Olympic games,66,0.025,93.783
+576,Cultural industry,66,0.025,93.808
+577,Moratorium,66,0.025,93.833
+578,Television,65,0.024,93.857
+579,Training centres,65,0.024,93.881
+580,Real estate industry,65,0.024,93.905
+581,Safety education,65,0.024,93.929
+582,Salt water fish,65,0.024,93.953
+583,Indigenous culture,65,0.024,93.977
+584,Art exhibitions,64,0.024,94.001
+585,Marine conservation areas,63,0.024,94.025
+586,Labour unions,63,0.024,94.049
+587,Pornography,62,0.023,94.072
+588,Indigenous lands,62,0.023,94.095
+589,Environment,62,0.023,94.118
+590,Ethnic minorities,61,0.023,94.141
+591,Pregnancy,61,0.023,94.164
+592,Birth,61,0.023,94.187
+593,Young offenders,61,0.023,94.21
+594,Two-spirit people,60,0.023,94.233
+595,Restaurants,60,0.023,94.256
+596,Fitness,60,0.023,94.279
+597,Military law,60,0.023,94.302
+598,Social rights,60,0.023,94.325
+599,Equipment,60,0.023,94.348
+600,Steel,60,0.023,94.371
+601,Marine safety,60,0.023,94.394
+602,Arms control,59,0.022,94.416
+603,Oil sands,59,0.022,94.438
+604,Death rate,59,0.022,94.46
+605,Military training,59,0.022,94.482
+606,Privatization,59,0.022,94.504
+607,Forests,59,0.022,94.526
+608,Allied forces,59,0.022,94.548
+609,Occupational accidents,59,0.022,94.57
+610,Road safety,59,0.022,94.592
+611,Fish farming,58,0.022,94.614
+612,Agricultural technology,58,0.022,94.636
+613,Legal services,58,0.022,94.658
+614,Universities,58,0.022,94.68
+615,Military communications,57,0.021,94.701
+616,Pulp and paper industry,57,0.021,94.722
+617,Pollution prevention,57,0.021,94.743
+618,Mortgage assistance,57,0.021,94.764
+619,Nationalism,57,0.021,94.785
+620,Public buildings,57,0.021,94.806
+621,Environmental adaptation,57,0.021,94.827
+622,Animal rights,57,0.021,94.848
+623,Elder abuse,56,0.021,94.869
+624,Alcohol consumption,56,0.021,94.89
+625,Animal husbandry,56,0.021,94.911
+626,Intellectual property,56,0.021,94.932
+627,Dairy products,56,0.021,94.953
+628,Nuclear energy,55,0.021,94.974
+629,Fugitives from justice,55,0.021,94.995
+630,Customer services,55,0.021,95.016
+631,Business start-ups,55,0.021,95.037
+632,Historical research,55,0.021,95.058
+633,Rates,55,0.021,95.079
+634,Employment centres,54,0.02,95.099
+635,Burials,54,0.02,95.119
+636,Multiculturalism,54,0.02,95.139
+637,Marine accidents,54,0.02,95.159
+638,Charters,54,0.02,95.179
+639,Aquatic ecosystems,54,0.02,95.199
+640,Crops,54,0.02,95.219
+641,Environmental services,53,0.02,95.239
+642,Processing,53,0.02,95.259
+643,Accounting,53,0.02,95.279
+644,War crimes,52,0.02,95.299
+645,Concrete,52,0.02,95.319
+646,Drought,52,0.02,95.339
+647,Road accidents,52,0.02,95.359
+648,Postsecondary education,52,0.02,95.379
+649,International markets,52,0.02,95.399
+650,Beverages,52,0.02,95.419
+651,Accessibility,51,0.019,95.438
+652,Water pollution,51,0.019,95.457
+653,Space exploration,51,0.019,95.476
+654,Watersheds,51,0.019,95.495
+655,Employers,51,0.019,95.514
+656,Public schools,51,0.019,95.533
+657,Beverage industry,51,0.019,95.552
+658,Non-repayable contributions,51,0.019,95.571
+659,Nonrenewable resources,51,0.019,95.59
+660,Assets,50,0.019,95.609
+661,Smoking,50,0.019,95.628
+662,Visas,50,0.019,95.647
+663,Regional cooperation,50,0.019,95.666
+664,Beef cattle,50,0.019,95.685
+665,Nuclear technology,50,0.019,95.704
+666,Organ transplantation,50,0.019,95.723
+667,International transport,50,0.019,95.742
+668,Community education,49,0.018,95.76
+669,Domestic architecture,49,0.018,95.778
+670,Business loans,49,0.018,95.796
+671,Electronic monitoring,49,0.018,95.814
+672,Nuclear facilities,49,0.018,95.832
+673,Slaughtering,49,0.018,95.85
+674,Emission control technology,49,0.018,95.868
+675,Shipbuilding,49,0.018,95.886
+676,Diesel fuel,48,0.018,95.904
+677,Pesticides,48,0.018,95.922
+678,War memorials,48,0.018,95.94
+679,Electronic commerce,48,0.018,95.958
+680,Medical technology,48,0.018,95.976
+681,Hospitality industry,48,0.018,95.994
+682,Domestic markets,48,0.018,96.012
+683,Social services,48,0.018,96.03
+684,Cultural groups,48,0.018,96.048
+685,Transgender people,48,0.018,96.066
+686,Prospecting,48,0.018,96.084
+687,Infants,47,0.018,96.102
+688,Maternity benefits,47,0.018,96.12
+689,Hydropower,47,0.018,96.138
+690,Health care industry,47,0.018,96.156
+691,Buildings,47,0.018,96.174
+692,Driving,47,0.018,96.192
+693,Decentralization,47,0.018,96.21
+694,Railway installations,47,0.018,96.228
+695,Cellular telephones,47,0.018,96.246
+696,Interprovincial relations,47,0.018,96.264
+697,Property,47,0.018,96.282
+698,Conservation,46,0.017,96.299
+699,Property tax,46,0.017,96.316
+700,Aircraft accidents,46,0.017,96.333
+701,Telecommunications networks,46,0.017,96.35
+702,Sexual harassment,46,0.017,96.367
+703,Wine industry,46,0.017,96.384
+704,Personal income,46,0.017,96.401
+705,Foster families,45,0.017,96.418
+706,Small businesses,45,0.017,96.435
+707,Dairy industry,45,0.017,96.452
+708,Capital,44,0.017,96.469
+709,Battlefields,44,0.017,96.486
+710,Air transport industry,44,0.017,96.503
+711,Shares,44,0.017,96.52
+712,Communications equipment,44,0.017,96.537
+713,Population,43,0.016,96.553
+714,Air pollution,43,0.016,96.569
+715,Quarantine,43,0.016,96.585
+716,Full-time employment,43,0.016,96.601
+717,Epidemics,43,0.016,96.617
+718,2SLGBTQI+ people,43,0.016,96.633
+719,Marine installations,43,0.016,96.649
+720,Freight,42,0.016,96.665
+721,Internal audits,42,0.016,96.681
+722,Professional development,42,0.016,96.697
+723,Secondary schools,42,0.016,96.713
+724,Ocean energy,42,0.016,96.729
+725,Maritime law,41,0.015,96.744
+726,Explorations,41,0.015,96.759
+727,Ferries,41,0.015,96.774
+728,Labour code,41,0.015,96.789
+729,Policing,41,0.015,96.804
+730,Crime against humanity,41,0.015,96.819
+731,Grasslands,41,0.015,96.834
+732,Accidents,41,0.015,96.849
+733,School boards,40,0.015,96.864
+734,Nonprescription drugs,40,0.015,96.879
+735,Breast cancer,39,0.015,96.894
+736,Fruits,39,0.015,96.909
+737,Commonwealth,39,0.015,96.924
+738,Indigenous law,39,0.015,96.939
+739,Air quality,39,0.015,96.954
+740,Construction materials,39,0.015,96.969
+741,Plastics industry,39,0.015,96.984
+742,Surveys,39,0.015,96.999
+743,Inuit,39,0.015,97.014
+744,Common-law unions,38,0.014,97.028
+745,Surgery,38,0.014,97.042
+746,Family law,38,0.014,97.056
+747,Photography,38,0.014,97.07
+748,Economic research,37,0.014,97.084
+749,Famine,37,0.014,97.098
+750,Food processing,37,0.014,97.112
+751,Rail transport industry,37,0.014,97.126
+752,Part-time employment,37,0.014,97.14
+753,Infant nutrition,37,0.014,97.154
+754,Meat,37,0.014,97.168
+755,Therapy,37,0.014,97.182
+756,Plants,37,0.014,97.196
+757,Historic sites,37,0.014,97.21
+758,Immunization,37,0.014,97.224
+759,Buses,37,0.014,97.238
+760,Inequality,37,0.014,97.252
+761,Adoptive parents,37,0.014,97.266
+762,Art works,36,0.014,97.28
+763,Safety equipment,36,0.014,97.294
+764,Fish,36,0.014,97.308
+765,Unpaid work,36,0.014,97.322
+766,Cycling,36,0.014,97.336
+767,Industrial technology,36,0.014,97.35
+768,Networks,35,0.013,97.363
+769,Seals,35,0.013,97.376
+770,Products,35,0.013,97.389
+771,Gambling,35,0.013,97.402
+772,Heritage conservation,35,0.013,97.415
+773,Blood supply,34,0.013,97.428
+774,Horses,34,0.013,97.441
+775,Poisoning,34,0.013,97.454
+776,Trees,34,0.013,97.467
+777,Foreign aid,34,0.013,97.48
+778,Military command,34,0.013,97.493
+779,Visual disabilities,34,0.013,97.506
+780,Inventions,34,0.013,97.519
+781,Wharfs,34,0.013,97.532
+782,Public diplomacy,33,0.012,97.544
+783,Film industry,33,0.012,97.556
+784,Livestock,33,0.012,97.568
+785,Men,33,0.012,97.58
+786,Weather warnings,33,0.012,97.592
+787,Software,33,0.012,97.604
+788,Authors,33,0.012,97.616
+789,Emigration,32,0.012,97.628
+790,Indigenous youth,32,0.012,97.64
+791,Inspection,32,0.012,97.652
+792,Pollutants,32,0.012,97.664
+793,Coffee,32,0.012,97.676
+794,Marketing,32,0.012,97.688
+795,Deforestation,32,0.012,97.7
+796,Public architecture,31,0.012,97.712
+797,Vegetable crops,31,0.012,97.724
+798,Maple products,31,0.012,97.736
+799,Gross domestic product,31,0.012,97.748
+800,Biological diversity,31,0.012,97.76
+801,Electrical equipment,31,0.012,97.772
+802,Packaging,31,0.012,97.784
+803,Wine,31,0.012,97.796
+804,Forgery,31,0.012,97.808
+805,Lease,31,0.012,97.82
+806,Respiratory diseases,31,0.012,97.832
+807,Disposal services,31,0.012,97.844
+808,Blindness,30,0.011,97.855
+809,Scholarships,30,0.011,97.866
+810,Sustainable transportation,30,0.011,97.877
+811,Public pensions,30,0.011,97.888
+812,Red tape reduction,30,0.011,97.899
+813,Transborder data flow,30,0.011,97.91
+814,Canola oil,30,0.011,97.921
+815,Explosions,30,0.011,97.932
+816,Family businesses,30,0.011,97.943
+817,Poetry,30,0.011,97.954
+818,Waste water,30,0.011,97.965
+819,Animal nutrition,29,0.011,97.976
+820,Greenhouses,29,0.011,97.987
+821,Transportation safety,29,0.011,97.998
+822,Security investigations,29,0.011,98.009
+823,Ecosystems,29,0.011,98.02
+824,Copyright,29,0.011,98.031
+825,Personal finance,29,0.011,98.042
+826,Air,29,0.011,98.053
+827,Apples,29,0.011,98.064
+828,Road construction,28,0.011,98.075
+829,Claims processing,28,0.011,98.086
+830,Distance education,28,0.011,98.097
+831,Media relations,28,0.011,98.108
+832,Automobile safety equipment,28,0.011,98.119
+833,Mountains,28,0.011,98.13
+834,Military architecture,28,0.011,98.141
+835,Explosives,28,0.011,98.152
+836,Shipping,27,0.01,98.162
+837,Visits of state,27,0.01,98.172
+838,Marijuana,27,0.01,98.182
+839,Birds,26,0.01,98.192
+840,Obesity,26,0.01,98.202
+841,Royalties,26,0.01,98.212
+842,Performing arts,26,0.01,98.222
+843,Railway accidents,26,0.01,98.232
+844,Cryptography,26,0.01,98.242
+845,Environmental quality,26,0.01,98.252
+846,Drinking water,26,0.01,98.262
+847,Gender-nonconforming people,25,0.009,98.271
+848,Fertility,25,0.009,98.28
+849,Information technology,25,0.009,98.289
+850,Water supply,25,0.009,98.298
+851,Financial services,25,0.009,98.307
+852,Aquatic animals,25,0.009,98.316
+853,Growth capital,25,0.009,98.325
+854,Product development,25,0.009,98.334
+855,Heritage buildings,25,0.009,98.343
+856,Streams,25,0.009,98.352
+857,Permafrost,25,0.009,98.361
+858,Beer,24,0.009,98.37
+859,International security,24,0.009,98.379
+860,Alzheimer's disease,24,0.009,98.388
+861,Clean technology,24,0.009,98.397
+862,Space technology,24,0.009,98.406
+863,Offshore drilling,24,0.009,98.415
+864,Elementary education,24,0.009,98.424
+865,Bonds,24,0.009,98.433
+866,Contaminated sites,23,0.009,98.442
+867,Centralization,23,0.009,98.451
+868,Corporate income tax,23,0.009,98.46
+869,Skating,23,0.009,98.469
+870,Dance,23,0.009,98.478
+871,Viruses,23,0.009,98.487
+872,Border crossing,23,0.009,98.496
+873,Gross national product,23,0.009,98.505
+874,Commercial buildings,23,0.009,98.514
+875,Data processing,23,0.009,98.523
+876,Functional foods,23,0.009,98.532
+877,Hunting permits,23,0.009,98.541
+878,Urban planning,22,0.008,98.549
+879,Degenerative diseases,22,0.008,98.557
+880,Oceans,22,0.008,98.565
+881,Labour union training,22,0.008,98.573
+882,Social security,22,0.008,98.581
+883,Fruit crops,22,0.008,98.589
+884,Crustaceans,22,0.008,98.597
+885,Railway safety,22,0.008,98.605
+886,Radioactive waste,22,0.008,98.613
+887,Lettuce,22,0.008,98.621
+888,Veteran pensions,21,0.008,98.629
+889,Social equity,21,0.008,98.637
+890,Industrial waste,21,0.008,98.645
+891,Bioethics,21,0.008,98.653
+892,Wildlife,21,0.008,98.661
+893,Aquatic wildlife,21,0.008,98.669
+894,Wind,21,0.008,98.677
+895,Greenhouse effect,21,0.008,98.685
+896,Queer people,20,0.008,98.693
+897,Cardiovascular diseases,20,0.008,98.701
+898,Childhood diseases,20,0.008,98.709
+899,Communications industry,20,0.008,98.717
+900,Metals,20,0.008,98.725
+901,Soil,20,0.008,98.733
+902,Licensing,20,0.008,98.741
+903,Military police,20,0.008,98.749
+904,Job promotion,20,0.008,98.757
+905,Watercourses,20,0.008,98.765
+906,Potatoes,20,0.008,98.773
+907,International courts,20,0.008,98.781
+908,Domestic animals,20,0.008,98.789
+909,Colonization,20,0.008,98.797
+910,Workplace pollution,20,0.008,98.805
+911,Offshore area,19,0.007,98.812
+912,Cultural institutions,19,0.007,98.819
+913,Assistive technologies,19,0.007,98.826
+914,Nuclear power plants,19,0.007,98.833
+915,Experiments,19,0.007,98.84
+916,Marine heritage,19,0.007,98.847
+917,Employment equity,19,0.007,98.854
+918,Fishing (Sport),19,0.007,98.861
+919,Medicine,19,0.007,98.868
+920,Chemicals,19,0.007,98.875
+921,Food inspection,18,0.007,98.882
+922,Radioactive materials,18,0.007,98.889
+923,Butter,18,0.007,98.896
+924,Intercity transport,18,0.007,98.903
+925,Agricultural fairs,18,0.007,98.91
+926,Adolescence,18,0.007,98.917
+927,Hygiene,18,0.007,98.924
+928,Water use,18,0.007,98.931
+929,Minimum wage,18,0.007,98.938
+930,Rail companies,18,0.007,98.945
+931,Lead,18,0.007,98.952
+932,Glass,18,0.007,98.959
+933,Visible minorities,18,0.007,98.966
+934,Transplantation (Medicine),18,0.007,98.973
+935,Military aircraft,18,0.007,98.98
+936,Domestic trade,18,0.007,98.987
+937,Cattle,17,0.006,98.993
+938,Whales,17,0.006,98.999
+939,Gardening,17,0.006,99.005
+940,Natural heritage,17,0.006,99.011
+941,Family education,17,0.006,99.017
+942,Computer services,17,0.006,99.023
+943,Deafness,17,0.006,99.029
+944,Research institutes,17,0.006,99.035
+945,Drilling,16,0.006,99.041
+946,Science education,16,0.006,99.047
+947,Smoking prevention,16,0.006,99.053
+948,Painting,16,0.006,99.059
+949,Studies abroad,16,0.006,99.065
+950,Ocean floor,16,0.006,99.071
+951,Warranties,16,0.006,99.077
+952,Molluscs,16,0.006,99.083
+953,Fisheries technology,16,0.006,99.089
+954,Erosion,16,0.006,99.095
+955,Elementary schools,16,0.006,99.101
+956,Landslides,16,0.006,99.107
+957,Commercialization,16,0.006,99.113
+958,Edible oils and fats,16,0.006,99.119
+959,Irrigation,16,0.006,99.125
+960,Propane,16,0.006,99.131
+961,Stock markets,16,0.006,99.137
+962,Language training,15,0.006,99.143
+963,Medical products,15,0.006,99.149
+964,Severance pay,15,0.006,99.155
+965,Boundary waters,15,0.006,99.161
+966,Architectural heritage,15,0.006,99.167
+967,Textiles,15,0.006,99.173
+968,Radar,15,0.006,99.179
+969,Language minorities,15,0.006,99.185
+970,Exchange programs,15,0.006,99.191
+971,Trains,15,0.006,99.197
+972,Computer networks,15,0.006,99.203
+973,Equipment industry,14,0.005,99.208
+974,Rodents,14,0.005,99.213
+975,Terrestrial ecosystems,14,0.005,99.218
+976,Medical law,14,0.005,99.223
+977,Medical products industry,14,0.005,99.228
+978,Crafts,14,0.005,99.233
+979,Grains,14,0.005,99.238
+980,Satellites,14,0.005,99.243
+981,Acid rain,14,0.005,99.248
+982,Perinatal care,14,0.005,99.253
+983,Shoe industry,14,0.005,99.258
+984,Wetlands,14,0.005,99.263
+985,Chemical weapons,14,0.005,99.268
+986,Hazardous waste,14,0.005,99.273
+987,Pests,14,0.005,99.278
+988,Laboratories,13,0.005,99.283
+989,Conciliation,13,0.005,99.288
+990,Child custody,13,0.005,99.293
+991,Precipitation,13,0.005,99.298
+992,Astronauts,13,0.005,99.303
+993,Animals,13,0.005,99.308
+994,Technical services,13,0.005,99.313
+995,Arctic ecosystems,13,0.005,99.318
+996,Personal care products,13,0.005,99.323
+997,Sealing,13,0.005,99.328
+998,Cooperative education,13,0.005,99.333
+999,Mortgage insurance,13,0.005,99.338
+1000,Influenza,12,0.005,99.343
+1001,Armouries,12,0.005,99.348
+1002,Divestiture,12,0.005,99.353
+1003,Lighthouses,12,0.005,99.358
+1004,Folklore,12,0.005,99.363
+1005,Wheat,12,0.005,99.368
+1006,Artefacts,12,0.005,99.373
+1007,Invasive species,12,0.005,99.378
+1008,Helicopters,12,0.005,99.383
+1009,Toys,12,0.005,99.388
+1010,Hydroelectric plants,12,0.005,99.393
+1011,Seas,12,0.005,99.398
+1012,Geographic information systems,12,0.005,99.403
+1013,Eggs,12,0.005,99.408
+1014,Hogs,12,0.005,99.413
+1015,Industrial research,12,0.005,99.418
+1016,Gardens,12,0.005,99.423
+1017,Earthquakes,12,0.005,99.428
+1018,Salt water,12,0.005,99.433
+1019,Cemeteries,12,0.005,99.438
+1020,Personal assets,11,0.004,99.442
+1021,Animal populations,11,0.004,99.446
+1022,Chemical industry,11,0.004,99.45
+1023,Vegetables,11,0.004,99.454
+1024,Weaving,11,0.004,99.458
+1025,Migratory birds,11,0.004,99.462
+1026,Seafood,11,0.004,99.466
+1027,Parking,11,0.004,99.47
+1028,Accessible transport,11,0.004,99.474
+1029,Tunnels,11,0.004,99.478
+1030,Engineering,11,0.004,99.482
+1031,Animal health,11,0.004,99.486
+1032,Tolls,11,0.004,99.49
+1033,Clothing industry,11,0.004,99.494
+1034,Civil law,11,0.004,99.498
+1035,Toxic spills,11,0.004,99.502
+1036,Sales taxes,11,0.004,99.506
+1037,Robotics,11,0.004,99.51
+1038,Language education,11,0.004,99.514
+1039,Air conditioning,11,0.004,99.518
+1040,Water conservation,11,0.004,99.522
+1041,Occupational diseases,10,0.004,99.526
+1042,Hiking,10,0.004,99.53
+1043,Marine safety equipment,10,0.004,99.534
+1044,Children's literature,10,0.004,99.538
+1045,Animal testing,10,0.004,99.542
+1046,Computer systems,10,0.004,99.546
+1047,Physical disabilities,10,0.004,99.55
+1048,Wood,10,0.004,99.554
+1049,Furniture industry,10,0.004,99.558
+1050,Couples,10,0.004,99.562
+1051,Trapping,10,0.004,99.566
+1052,World heritage,10,0.004,99.57
+1053,Reproductive technology,10,0.004,99.574
+1054,Adults,10,0.004,99.578
+1055,Religious architecture,10,0.004,99.582
+1056,Weather forecasts,10,0.004,99.586
+1057,Single parent families,10,0.004,99.59
+1058,Beekeeping,10,0.004,99.594
+1059,Milk,10,0.004,99.598
+1060,Electronics industry,10,0.004,99.602
+1061,Life expectancy,10,0.004,99.606
+1062,Habitats,10,0.004,99.61
+1063,Gay people,9,0.003,99.613
+1064,Jewellery,9,0.003,99.616
+1065,Foster children,9,0.003,99.619
+1066,Solar energy,9,0.003,99.622
+1067,Visual arts,9,0.003,99.625
+1068,Animal inspection,9,0.003,99.628
+1069,Dams,9,0.003,99.631
+1070,Canals,9,0.003,99.634
+1071,Demining,9,0.003,99.637
+1072,Aquaculture,9,0.003,99.64
+1073,Groundwater,9,0.003,99.643
+1074,Submarines,9,0.003,99.646
+1075,Regional markets,9,0.003,99.649
+1076,Fungi,9,0.003,99.652
+1077,Survival,9,0.003,99.655
+1078,Sales,9,0.003,99.658
+1079,Tides,8,0.003,99.661
+1080,Biological warfare,8,0.003,99.664
+1081,AIDS (disease),8,0.003,99.667
+1082,Consumer loans,8,0.003,99.67
+1083,Pay equity,8,0.003,99.673
+1084,Colleges,8,0.003,99.676
+1085,Tourism facilities,8,0.003,99.679
+1086,Tobacco industry,8,0.003,99.682
+1087,Computer science,8,0.003,99.685
+1088,Vitamins,8,0.003,99.688
+1089,Internships,8,0.003,99.691
+1090,Bioenergy,8,0.003,99.694
+1091,Antarctic,8,0.003,99.697
+1092,Trade promotion,8,0.003,99.7
+1093,Inheritance,8,0.003,99.703
+1094,Adulthood,8,0.003,99.706
+1095,Skiing,8,0.003,99.709
+1096,Cheese,8,0.003,99.712
+1097,Estates,8,0.003,99.715
+1098,Programming,7,0.003,99.718
+1099,Travel documents,7,0.003,99.721
+1100,Materials technology,7,0.003,99.724
+1101,Birth rate,7,0.003,99.727
+1102,Snow,7,0.003,99.73
+1103,Electronic waste,7,0.003,99.733
+1104,Casinos,7,0.003,99.736
+1105,Forestry technology,7,0.003,99.739
+1106,Animal diseases,7,0.003,99.742
+1107,Reptiles,7,0.003,99.745
+1108,Logging industry,7,0.003,99.748
+1109,Sculpture,7,0.003,99.751
+1110,Airplanes,7,0.003,99.754
+1111,Animal migrations,7,0.003,99.757
+1112,Private schools,7,0.003,99.76
+1113,Surgeons,7,0.003,99.763
+1114,Telework,7,0.003,99.766
+1115,Electronics,7,0.003,99.769
+1116,Home education,7,0.003,99.772
+1117,Glaciers,7,0.003,99.775
+1118,Living organisms,7,0.003,99.778
+1119,Educational technology,7,0.003,99.781
+1120,Wheelchairs,7,0.003,99.784
+1121,Capital markets,7,0.003,99.787
+1122,Patents,7,0.003,99.79
+1123,Carrots,7,0.003,99.793
+1124,Biotechnology,7,0.003,99.796
+1125,Ozone,7,0.003,99.799
+1126,Drainage,7,0.003,99.802
+1127,Satellite imagery,7,0.003,99.805
+1128,Exchange rates,7,0.003,99.808
+1129,Beans,7,0.003,99.811
+1130,Herbicides,6,0.002,99.813
+1131,Intellectual capital,6,0.002,99.815
+1132,Peas,6,0.002,99.817
+1133,Water quality,6,0.002,99.819
+1134,Gases,6,0.002,99.821
+1135,Mercury,6,0.002,99.823
+1136,Commercial ships,6,0.002,99.825
+1137,Social structure,6,0.002,99.827
+1138,Polar regions,6,0.002,99.829
+1139,Trademarks,6,0.002,99.831
+1140,Mammals,6,0.002,99.833
+1141,Landmines,6,0.002,99.835
+1142,Inland waters,6,0.002,99.837
+1143,Animal research,6,0.002,99.839
+1144,Genetically modified organisms,6,0.002,99.841
+1145,Cereals,6,0.002,99.843
+1146,Biological weapons,6,0.002,99.845
+1147,Resources conservation,6,0.002,99.847
+1148,Coastal waters,6,0.002,99.849
+1149,Divorce,6,0.002,99.851
+1150,International exhibitions,6,0.002,99.853
+1151,Social innovation,6,0.002,99.855
+1152,Computers,6,0.002,99.857
+1153,Stem cells,6,0.002,99.859
+1154,Sexual orientation,6,0.002,99.861
+1155,Aquatic plants,6,0.002,99.863
+1156,Military colleges,6,0.002,99.865
+1157,Paternity benefits,6,0.002,99.867
+1158,Fresh water,6,0.002,99.869
+1159,Part-time students,6,0.002,99.871
+1160,Viticulture,5,0.002,99.873
+1161,Publishing,5,0.002,99.875
+1162,Flora,5,0.002,99.877
+1163,Ornamental plants,5,0.002,99.879
+1164,Grapes,5,0.002,99.881
+1165,Patented medicines,5,0.002,99.883
+1166,Innu,5,0.002,99.885
+1167,Geothermal energy,5,0.002,99.887
+1168,Humidity,5,0.002,99.889
+1169,Radiation,5,0.002,99.891
+1170,Bicycle paths,5,0.002,99.893
+1171,Soil pollution,5,0.002,99.895
+1172,Biomedical experiments,5,0.002,99.897
+1173,Fishing permits,5,0.002,99.899
+1174,Weeds,5,0.002,99.901
+1175,Protected species,5,0.002,99.903
+1176,Allergies,5,0.002,99.905
+1177,Wholesale trade,5,0.002,99.907
+1178,Rubber industry,5,0.002,99.909
+1179,Textile industry,5,0.002,99.911
+1180,Life insurance,5,0.002,99.913
+1181,Tissues,5,0.002,99.915
+1182,Farm buildings,5,0.002,99.917
+1183,Soil conservation,5,0.002,99.919
+1184,Architecture,4,0.002,99.921
+1185,Genetically modified foods,4,0.002,99.923
+1186,Workplace automation,4,0.002,99.925
+1187,Electronic publishing,4,0.002,99.927
+1188,Dairy cattle,4,0.002,99.929
+1189,Self employment,4,0.002,99.931
+1190,Biomass,4,0.002,99.933
+1191,Boreal ecosystems,4,0.002,99.935
+1192,Ozone depletion,4,0.002,99.937
+1193,Ice,4,0.002,99.939
+1194,Furs,4,0.002,99.941
+1195,Mining technology,4,0.002,99.943
+1196,Fishing ships,4,0.002,99.945
+1197,Botanical gardens,4,0.002,99.947
+1198,Driver education,4,0.002,99.949
+1199,Freshwater fish,4,0.002,99.951
+1200,Train stations,4,0.002,99.953
+1201,Indigenous businesses,4,0.002,99.955
+1202,Personal digital assistant,4,0.002,99.957
+1203,Hatcheries,4,0.002,99.959
+1204,Technical education,4,0.002,99.961
+1205,Resources management,4,0.002,99.963
+1206,Inuvialuit,4,0.002,99.965
+1207,Corn,4,0.002,99.967
+1208,Smog,4,0.002,99.969
+1209,Civil aviation,4,0.002,99.971
+1210,Composting,4,0.002,99.973
+1211,Scientific equipment,3,0.001,99.974
+1212,Venture capital,3,0.001,99.975
+1213,Human capital,3,0.001,99.976
+1214,Organic foods,3,0.001,99.977
+1215,Amphibians,3,0.001,99.978
+1216,Mining accidents,3,0.001,99.979
+1217,Insecticides,3,0.001,99.98
+1218,Prostitution,3,0.001,99.981
+1219,Game (Wildlife),3,0.001,99.982
+1220,Butterflies,3,0.001,99.983
+1221,Office automation,3,0.001,99.984
+1222,Primates,3,0.001,99.985
+1223,Glass industry,3,0.001,99.986
+1224,Amateur sports,3,0.001,99.987
+1225,Honey,3,0.001,99.988
+1226,Insects,3,0.001,99.989
+1227,Pottery,3,0.001,99.99
+1228,Orchestras,3,0.001,99.991
+1229,Telehealth,3,0.001,99.992
+1230,Soil quality,3,0.001,99.993
+1231,Daylight saving time,3,0.001,99.994
+1232,Electrical appliances,3,0.001,99.995
+1233,Cells,3,0.001,99.996
+1234,Diamonds,3,0.001,99.997
+1235,Biochemicals,3,0.001,99.998
+1236,Insurance companies,3,0.001,99.999
+1237,Gold,3,0.001,100.0
+1238,Biological products,3,0.001,100.001
+1239,Refrigeration equipment,3,0.001,100.002
+1240,Space station,3,0.001,100.003
+1241,Crop insurance,3,0.001,100.004
+1242,Media monitoring,3,0.001,100.005
+1243,Biodegradation,3,0.001,100.006
+1244,Forage crops,2,0.001,100.007
+1245,Illustrations,2,0.001,100.008
+1246,Navigation systems,2,0.001,100.009
+1247,Sewing,2,0.001,100.01
+1248,Cruise ships,2,0.001,100.011
+1249,Folk art,2,0.001,100.012
+1250,Ornaments,2,0.001,100.013
+1251,Decorative arts,2,0.001,100.014
+1252,Same-sex couples,2,0.001,100.015
+1253,Automation,2,0.001,100.016
+1254,Methadone,2,0.001,100.017
+1255,Gay men,2,0.001,100.018
+1256,Poaching,2,0.001,100.019
+1257,Trade shows,2,0.001,100.02
+1258,Horticulture,2,0.001,100.021
+1259,Commercial architecture,2,0.001,100.022
+1260,Chemical warfare,2,0.001,100.023
+1261,Graphic arts,2,0.001,100.024
+1262,Sexually transmitted diseases,2,0.001,100.025
+1263,Frigates,2,0.001,100.026
+1264,Personal income tax,2,0.001,100.027
+1265,Second language education,2,0.001,100.028
+1266,Irradiation,2,0.001,100.029
+1267,Aquatic birds,2,0.001,100.03
+1268,Property and casualty insurance,2,0.001,100.031
+1269,Interprovincial transport,2,0.001,100.032
+1270,Whaling,2,0.001,100.033
+1271,Fossils,2,0.001,100.034
+1272,Radio,2,0.001,100.035
+1273,Passports,2,0.001,100.036
+1274,Coronaviruses,2,0.001,100.037
+1275,Historical societies,2,0.001,100.038
+1276,Secondary education,2,0.001,100.039
+1277,Barley,2,0.001,100.04
+1278,Computer programming,2,0.001,100.041
+1279,Archaeological investigations,2,0.001,100.042
+1280,Tea,2,0.001,100.043
+1281,Indigenous policing,2,0.001,100.044
+1282,Aquariums,1,0.0,100.044
+1283,Hibernation,1,0.0,100.044
+1284,Yogurt,1,0.0,100.044
+1285,Medicinal plants,1,0.0,100.044
+1286,Lesbians,1,0.0,100.044
+1287,Status Indians,1,0.0,100.044
+1288,Reforestation,1,0.0,100.044
+1289,Insurable earnings,1,0.0,100.044
+1290,Insulation,1,0.0,100.044
+1291,Lentils,1,0.0,100.044
+1292,Hydroponics,1,0.0,100.044
+1293,Recyclable materials,1,0.0,100.044
+1294,Product recalls,1,0.0,100.044
+1295,Mechanical engineering,1,0.0,100.044
+1296,Avalanches,1,0.0,100.044
+1297,Cloning,1,0.0,100.044
+1298,Radioactivity,1,0.0,100.044
+1299,Grain elevators,1,0.0,100.044
+1300,Estuaries,1,0.0,100.044
+1301,Walruses,1,0.0,100.044
+1302,Plant diseases,1,0.0,100.044
+1303,Zoological gardens,1,0.0,100.044
+1304,Sailboats,1,0.0,100.044
+1305,Global positioning systems,1,0.0,100.044
+1306,Art galleries,1,0.0,100.044
+1307,Silver,1,0.0,100.044
+1308,Ski trails,1,0.0,100.044
+1309,Destroyers,1,0.0,100.044
+1310,Rodenticides,1,0.0,100.044
+1311,Fluorides,1,0.0,100.044
+1312,Volcanoes,1,0.0,100.044
+1313,Genetic engineering,1,0.0,100.044
+1314,Ice caps,1,0.0,100.044
+1315,Decontamination,1,0.0,100.044
+1316,Microorganisms,1,0.0,100.044
+1317,Non-Status Indians,1,0.0,100.044
+1318,Environmental accidents,1,0.0,100.044
+1319,Bicycle safety equipment,1,0.0,100.044
+1320,Learning disabilities,1,0.0,100.044
+1321,Real property services,1,0.0,100.044
+1322,Virtual exhibitions,1,0.0,100.044
+1323,Tsunamis,1,0.0,100.044
+1324,Arachnids,1,0.0,100.044
