@@ -36,6 +36,9 @@ htmlcov/
 # Jupyter temporary files
 .ipynb_checkpoints/
 
+# Large raw Hansard extract
+data/canada_hansard_2022-2026.csv
+
 # IDE and operating-system files
 .idea/
 .vscode/
